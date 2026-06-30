@@ -7,8 +7,8 @@
 - Created the project notes file
 - Created the dataset CSV structure
 - Collected and added the first 10 Saudi data-related job postings
-- Included different role types: Data Analyst, Data Scientist, BI / Power BI Developer, Data / AI Analyst, Fraud Analytics, Operations Analytics, and Digital Marketing Analytics
-- Started preparing for Kaggle Pandas
+- Included different role types: Data Analyst, Data Scientist, BI / Power BI Developer, Data / AI Analyst, Fraud Analytics, Operations Analytics, Business / Pricing Analytics, and Digital Marketing Analytics
+- Completed the first Kaggle Pandas exercise: Creating, Reading and Writing
 
 ## Day 1 Dataset Summary
 
@@ -21,8 +21,8 @@ Initial role types:
 - Data / AI Analyst
 - Fraud / Cybersecurity Analytics
 - Performance / Operations Analytics
-- Digital Marketing Analytics
 - Business / Pricing Analytics
+- Digital Marketing Analytics
 
 Initial tools observed:
 - SQL
@@ -37,10 +37,13 @@ Initial tools observed:
 - Power Query
 - pandas
 - NumPy
+- GA4
+- TensorFlow
+- PyTorch
 
 ## Day 1 Notes
 
-The first dataset sample shows that data-related roles in Saudi Arabia are not limited to the title "Data Analyst" or "Data Scientist". Several roles include analytics responsibilities under different titles, such as pricing analytics, operations performance, fraud protection, and digital marketing analytics.
+The first dataset sample shows that data-related roles in Saudi Arabia are not limited to the title "Data Analyst" or "Data Scientist". Several roles include analytics responsibilities under different titles, such as pricing analytics, operations performance, fraud protection, AI analysis, Power BI development, and digital marketing analytics.
 
 This supports the project goal of analyzing data-related jobs broadly and identifying the skills most relevant for Computer Science students interested in Data Science and analytics careers.
 
@@ -60,6 +63,12 @@ A vertical field in a dataset.
 
 ### Index
 The label or number used to identify rows.
+
+### read_csv
+Used to read a CSV file into a Pandas DataFrame.
+
+### to_csv
+Used to save a Pandas DataFrame as a CSV file.
 
 ## Next Steps
 
