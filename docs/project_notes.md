@@ -70,7 +70,7 @@ Used to read a CSV file into a Pandas DataFrame.
 ### to_csv
 Used to save a Pandas DataFrame as a CSV file.
 
-## Next Steps
+## Day 1 Next Steps
 
 - Continue learning Pandas basics
 - Collect more Saudi data-related job postings
@@ -78,39 +78,42 @@ Used to save a Pandas DataFrame as a CSV file.
 - Start identifying repeated skills and tools
 - Prepare the first LinkedIn post about the project
 
-
-
-
-
-
 ## Day 2 Progress
 
 - Collected and added 15 additional Saudi data-related job postings.
 - Increased the dataset from 10 to 25 job postings.
-- Added more role diversity across AI, product analytics, research analytics, healthcare analytics, BI, operations performance, and internship/co-op opportunities.
+- Reviewed the dataset for duplicate job postings.
+- Removed duplicate entries for repeated roles from Infinite PL, MOZN, and DP World.
+- Replaced duplicates with new non-duplicate roles from Riyad Bank, Master Works, and TAWAL.
+- Finalized the first 25 job postings with no obvious duplicate job links or repeated job titles from the same company.
+- Added more role diversity across AI, product analytics, research analytics, healthcare analytics, BI, operations performance, corporate performance, data governance, and internship/co-op opportunities.
 - Continued focusing on Saudi data-related roles that can help identify the skills needed by Computer Science students interested in Data Science.
-- Rejected roles that were too senior, too managerial, or not analytics-focused, such as senior data engineering, data architecture, database administration, and manager-level analytics roles.
 
 ## Day 2 Dataset Summary
 
 The dataset now includes 25 Saudi data-related job and internship postings.
 
-New role types added today:
-- Data / AI Analyst
-- Product Analytics
-- Market / Research Analytics
-- IT / Data-related Internship
-- Data Management / Governance
-- AI / Data-related Internship
+Role types included so far:
+- Data Analyst
 - Data Scientist
-- Data Analyst / BI Analyst
-- Data Analyst / Performance Analytics
+- Data / AI Analyst
+- BI / Power BI Developer
 - BI / Business Intelligence
+- Product Analytics
+- Business / Pricing Analytics
+- Market / Research Analytics
+- Research / Quantitative Analytics
 - Healthcare Analytics / AI
 - Aviation Safety Analytics
-- Research / Quantitative Analytics
-- Business / Financial Analytics
+- Fraud / Cybersecurity Analytics
+- Digital Marketing Analytics
 - Operations Performance Analytics
+- Corporate Performance Analytics
+- Data Management / Governance
+- Data Governance / Data Stewardship
+- AI / ML Engineering
+- IT / Data-related Internship
+- AI / Data-related Internship
 
 ## Day 2 Initial Observations
 
@@ -154,12 +157,28 @@ Rejected role types included:
 - Reporting Specialist requiring 7+ years
 - Software or application development roles not focused on analytics
 
-This helped keep the dataset more relevant to students and early-career data pathways.
+The dataset was also reviewed for duplicates. Repeated entries were removed and replaced to improve dataset quality and role diversity.
+
+## Day 2 Pandas Notes
+
+### loc
+Used to select data by labels.
+
+### iloc
+Used to select data by integer position.
+
+### Column Selection
+Used to select one column from a DataFrame.
+
+### Row Selection
+Used to select specific rows from a DataFrame.
+
+### Assigning Values
+Used to update or create values inside a DataFrame.
 
 ## Day 2 Next Steps
 
-- Review the dataset structure and check for formatting issues.
+- Continue improving the dataset quality and consistency.
+- Start identifying repeated skills and tools across the 25 collected postings.
+- Prepare the first LinkedIn post about the project.
 - Continue Kaggle Pandas practice.
-- Start learning how to select rows and columns using Pandas.
-- Prepare a LinkedIn post draft about reaching 25 collected job postings.
-- Begin identifying the most repeated skills across the dataset.
