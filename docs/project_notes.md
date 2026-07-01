@@ -77,3 +77,89 @@ Used to save a Pandas DataFrame as a CSV file.
 - Improve dataset quality and consistency
 - Start identifying repeated skills and tools
 - Prepare the first LinkedIn post about the project
+
+
+
+
+
+
+## Day 2 Progress
+
+- Collected and added 15 additional Saudi data-related job postings.
+- Increased the dataset from 10 to 25 job postings.
+- Added more role diversity across AI, product analytics, research analytics, healthcare analytics, BI, operations performance, and internship/co-op opportunities.
+- Continued focusing on Saudi data-related roles that can help identify the skills needed by Computer Science students interested in Data Science.
+- Rejected roles that were too senior, too managerial, or not analytics-focused, such as senior data engineering, data architecture, database administration, and manager-level analytics roles.
+
+## Day 2 Dataset Summary
+
+The dataset now includes 25 Saudi data-related job and internship postings.
+
+New role types added today:
+- Data / AI Analyst
+- Product Analytics
+- Market / Research Analytics
+- IT / Data-related Internship
+- Data Management / Governance
+- AI / Data-related Internship
+- Data Scientist
+- Data Analyst / BI Analyst
+- Data Analyst / Performance Analytics
+- BI / Business Intelligence
+- Healthcare Analytics / AI
+- Aviation Safety Analytics
+- Research / Quantitative Analytics
+- Business / Financial Analytics
+- Operations Performance Analytics
+
+## Day 2 Initial Observations
+
+Several data-related roles in Saudi Arabia require a mix of technical, analytical, and communication skills.
+
+Repeated technical tools and skills observed:
+- SQL
+- Python
+- Power BI
+- Excel
+- Tableau
+- Dashboards
+- Reporting
+- Data Quality
+- Data Visualization
+- Machine Learning
+- Generative AI
+- KPI Analysis
+- Data Governance
+- Business Intelligence
+
+Repeated soft and business skills observed:
+- Communication
+- Stakeholder collaboration
+- Problem solving
+- Attention to detail
+- Insight generation
+- Reporting to management
+- Translating data into business recommendations
+
+## Day 2 Dataset Quality Notes
+
+During collection, several roles were rejected because they did not match the current project focus.
+
+Rejected role types included:
+- Senior Data Engineer
+- SQL / Oracle Database Engineer
+- Data Analytics Manager
+- Data & Business Intelligence Manager
+- Data & AI Architect
+- Reporting Specialist requiring 7+ years
+- Software or application development roles not focused on analytics
+
+This helped keep the dataset more relevant to students and early-career data pathways.
+
+## Day 2 Next Steps
+
+- Review the dataset structure and check for formatting issues.
+- Continue Kaggle Pandas practice.
+- Start learning how to select rows and columns using Pandas.
+- Prepare a LinkedIn post draft about reaching 25 collected job postings.
+- Begin identifying the most repeated skills across the dataset.
