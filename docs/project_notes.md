@@ -78,6 +78,11 @@ Used to save a Pandas DataFrame as a CSV file.
 - Start identifying repeated skills and tools
 - Prepare the first LinkedIn post about the project
 
+
+
+
+
+
 ## Day 2 Progress
 
 - Collected and added 15 additional Saudi data-related job postings.
@@ -182,3 +187,42 @@ Used to update or create values inside a DataFrame.
 - Start identifying repeated skills and tools across the 25 collected postings.
 - Prepare the first LinkedIn post about the project.
 - Continue Kaggle Pandas practice.
+
+
+
+
+
+
+## Day 3 Progress
+
+- Created a Google Colab notebook named `01_data_exploration`.
+- Loaded the Saudi data jobs dataset from the GitHub raw CSV link.
+- Verified the dataset shape and confirmed it contains 25 job postings.
+- Checked for duplicate rows.
+- Checked for duplicate job links.
+- Checked for duplicate job title and company combinations.
+- Confirmed that the dataset has no obvious duplicate entries.
+- Explored job postings by city.
+- Explored role type diversity.
+- Explored experience level distribution.
+- Counted the most mentioned tools across the dataset.
+- Created initial visualizations for tools, cities, role types, and experience levels.
+- Wrote initial insights inside the notebook.
+
+## Day 3 Initial Findings
+
+The first exploratory analysis showed that SQL is the most frequently mentioned tool in the collected job postings, followed by Python, Power BI, Excel, and Tableau.
+
+Riyadh appeared as the most common city in the sample, while some postings listed the location only as "Saudi Arabia", which means the city column needs cleaning later.
+
+The role types are highly diverse, which supports the idea that data-related opportunities in Saudi Arabia are not limited to job titles such as "Data Analyst" or "Data Scientist".
+
+The experience level column also needs simplification because the labels are inconsistent and include different formats such as entry level, internship/co-op, mid-level, and specific years of experience.
+
+## Day 3 Next Steps
+
+- Clean unclear city values such as "Saudi Arabia".
+- Create a simplified experience category column.
+- Group similar role types into broader categories.
+- Continue analyzing repeated skills and responsibilities.
+- Save the exploration notebook and connect it clearly to the GitHub project.
