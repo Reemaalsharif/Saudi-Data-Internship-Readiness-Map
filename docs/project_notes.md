@@ -226,3 +226,17 @@ The experience level column also needs simplification because the labels are inc
 - Group similar role types into broader categories.
 - Continue analyzing repeated skills and responsibilities.
 - Save the exploration notebook and connect it clearly to the GitHub project.
+
+
+## Day 4 - Data Cleaning
+
+Completed data cleaning for the Saudi Data Jobs dataset.
+
+Tasks completed:
+- Cleaned the city column and replaced general locations such as Saudi Arabia with Not specified.
+- Created a new city_cleaned column.
+- Created a simplified experience_category column.
+- Created a simplified role_category column.
+- Exported the cleaned dataset as saudi_data_jobs_cleaned.csv.
+- Added the cleaned dataset to the data folder.
+- Added the data cleaning notebook as 02_data_cleaning.ipynb.
