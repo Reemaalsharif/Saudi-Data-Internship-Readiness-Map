@@ -227,16 +227,91 @@ The experience level column also needs simplification because the labels are inc
 - Continue analyzing repeated skills and responsibilities.
 - Save the exploration notebook and connect it clearly to the GitHub project.
 
+## Day 4 Progress
 
-## Day 4 - Data Cleaning
+- Created a Google Colab notebook named `02_data_cleaning`.
+- Loaded the Saudi data jobs dataset from the GitHub raw CSV link.
+- Reviewed the dataset columns and confirmed the main columns used for cleaning:
+  - `city`
+  - `experience_level`
+  - `job_title`
+  - `role_type`
+- Cleaned the city values by creating a new column named `city_cleaned`.
+- Replaced unclear city values such as `Saudi Arabia` with `Not specified`.
+- Created a simplified experience category column named `experience_category`.
+- Grouped inconsistent experience labels into clearer categories:
+  - Entry Level
+  - Mid-Level
+  - Internship
+- Created a simplified role category column named `role_category`.
+- Grouped job titles into broader role categories such as Data Analysis, Data Science, BI, AI, Governance, Internship, and Other.
+- Checked the cleaned columns using value counts.
+- Exported the cleaned dataset as `saudi_data_jobs_cleaned.csv`.
+- Added the cleaned dataset to the `data` folder.
+- Added the data cleaning notebook to the `notebooks` folder.
 
-Completed data cleaning for the Saudi Data Jobs dataset.
+## Day 4 Cleaning Summary
 
-Tasks completed:
-- Cleaned the city column and replaced general locations such as Saudi Arabia with Not specified.
-- Created a new city_cleaned column.
-- Created a simplified experience_category column.
-- Created a simplified role_category column.
-- Exported the cleaned dataset as saudi_data_jobs_cleaned.csv.
-- Added the cleaned dataset to the data folder.
-- Added the data cleaning notebook as 02_data_cleaning.ipynb.
+The raw dataset was cleaned and prepared for deeper analysis.
+
+Main cleaning steps:
+- Standardized unclear city values.
+- Simplified experience levels into fewer categories.
+- Grouped similar job titles into broader role categories.
+- Kept the original dataset unchanged and created a separate cleaned dataset for analysis.
+
+The cleaned dataset now includes the original job posting information plus new analysis-ready columns:
+- `city_cleaned`
+- `experience_category`
+- `role_category`
+
+## Day 4 Initial Findings
+
+Riyadh appeared as the most common city in the dataset, followed by Jeddah and other locations.
+
+Some job postings listed the location only as `Saudi Arabia`, so these were changed to `Not specified` to avoid treating the country name as a city.
+
+Most roles in the dataset are Entry Level or Mid-Level, which supports the project focus on opportunities relevant to students and early-career Computer Science learners.
+
+The role categories show that data-related jobs in Saudi Arabia include more than traditional Data Analyst and Data Scientist roles. The dataset also includes BI, AI, data governance, operations analytics, and internship opportunities.
+
+## Day 4 Dataset Quality Notes
+
+The cleaned dataset was saved separately from the raw dataset.
+
+Raw dataset:
+- `data/saudi_data_jobs_dataset.csv`
+
+Cleaned dataset:
+- `data/saudi_data_jobs_cleaned.csv`
+
+This keeps the original data available while allowing analysis to continue using a cleaner version.
+
+## Day 4 Pandas Notes
+
+### replace
+Used to replace specific values in a column.
+
+### apply
+Used to apply a function to each value in a column.
+
+### value_counts
+Used to count how many times each value appears in a column.
+
+### Function
+Used to create reusable cleaning logic.
+
+### New Column
+Created by assigning results to a new DataFrame column.
+
+### to_csv
+Used to export the cleaned DataFrame as a CSV file.
+
+## Day 4 Next Steps
+
+- Use the cleaned dataset for analysis.
+- Analyze the most repeated skills and tools.
+- Compare skills by role category.
+- Create clearer charts from the cleaned columns.
+- Start preparing insights for the first LinkedIn project post.
+- Continue Kaggle Pandas practice.
