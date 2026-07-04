@@ -315,3 +315,45 @@ Used to export the cleaned DataFrame as a CSV file.
 - Create clearer charts from the cleaned columns.
 - Start preparing insights for the first LinkedIn project post.
 - Continue Kaggle Pandas practice.
+
+- ## Day 5 Progress
+
+- Created a Google Colab notebook named `03_skills_tools_analysis`.
+- Loaded the cleaned Saudi data jobs dataset from GitHub.
+- Analyzed the most frequently mentioned tools in the dataset.
+- Created a Top 10 Tools bar chart.
+- Analyzed the most frequently mentioned skills in the dataset.
+- Created a Top 10 Skills bar chart.
+- Wrote initial insights about the most important tools and skills for Saudi data-related roles.
+
+## Day 5 Initial Findings
+
+SQL was the most frequently mentioned tool, followed by Python, Excel, and Power BI.
+
+The most repeated skills included trend analysis, data validation, data analysis, data governance, reporting, problem solving, dashboard development, and data accuracy.
+
+These findings suggest that students interested in Saudi data-related roles should prioritize SQL, Python, Excel, Power BI, data analysis, reporting, and dashboarding skills.
+
+## Day 5 Pandas Notes
+
+### str.split
+Used to split comma-separated values inside a column.
+
+### explode
+Used to turn list values into separate rows.
+
+### str.strip
+Used to remove extra spaces from text values.
+
+### value_counts
+Used to count repeated tools and skills.
+
+### plot
+Used to create simple charts from Pandas results.
+
+## Day 5 Next Steps
+
+- Compare tools and skills by role category.
+- Analyze which skills are most common for Entry Level roles.
+- Improve charts and insights for the final project report.
+- Continue Kaggle Pandas practice.
