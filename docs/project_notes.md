@@ -357,3 +357,55 @@ Used to create simple charts from Pandas results.
 - Analyze which skills are most common for Entry Level roles.
 - Improve charts and insights for the final project report.
 - Continue Kaggle Pandas practice.
+
+## Day 6 Progress
+
+- Created a Google Colab notebook named `04_entry_level_role_analysis`.
+- Loaded the cleaned Saudi data jobs dataset from GitHub.
+- Analyzed job postings by role category.
+- Created a bar chart showing job postings by role category.
+- Analyzed job postings by experience level.
+- Created a bar chart showing job postings by experience level.
+- Filtered the dataset to focus on Entry Level job postings.
+- Analyzed the most frequently mentioned tools in Entry Level data-related roles.
+- Created a Top 10 Entry-Level Tools bar chart.
+- Analyzed the most frequently mentioned skills in Entry Level data-related roles.
+- Created a Top 10 Entry-Level Skills bar chart.
+- Used `groupby` to compare role categories with experience levels.
+
+## Day 6 Initial Findings
+
+The dataset shows that data-related roles in Saudi Arabia include multiple categories such as Data Analysis, Data Science, BI, AI, Governance, Internship, and Other.
+
+Most of the collected roles are Entry Level or Mid-Level, which supports the project focus on students and early-career learners.
+
+For Entry Level data-related roles, the most relevant tools include SQL, Python, Excel, Power BI, and Tableau.
+
+The most relevant skills include data analysis, reporting, dashboarding, data validation, problem solving, and insight generation.
+
+## Day 6 Pandas Notes
+
+### groupby
+Used to group the dataset by one or more columns.
+
+### reset_index
+Used to convert grouped results back into a regular DataFrame.
+
+### sort_values
+Used to sort results by a selected column.
+
+### str.split
+Used to split comma-separated tools or skills into lists.
+
+### explode
+Used to turn list values into separate rows.
+
+### value_counts
+Used to count repeated tools, skills, and categories.
+
+## Day 6 Next Steps
+
+- Compare tools and skills by specific role category.
+- Identify the most important skills for Data Analysis and BI roles.
+- Start preparing project insights for a LinkedIn post.
+- Continue Kaggle Pandas practice.
