@@ -409,3 +409,40 @@ Used to count repeated tools, skills, and categories.
 - Identify the most important skills for Data Analysis and BI roles.
 - Start preparing project insights for a LinkedIn post.
 - Continue Kaggle Pandas practice.
+
+
+## Day 7 Progress
+
+- Reviewed the first week of the Saudi Data Jobs project.
+- Confirmed that the raw dataset and cleaned dataset are saved in the data folder.
+- Reviewed the uploaded notebooks for exploration, cleaning, skills/tools analysis, and entry-level analysis.
+- Continued Kaggle Pandas practice.
+- Completed or continued the final Kaggle Pandas lessons.
+- Prepared initial insights for a LinkedIn post about the project.
+
+## Day 7 Weekly Review
+
+During the first week, the project moved from a basic idea to a structured data analysis project.
+
+Completed work:
+- Created the project repository.
+- Collected 25 Saudi data-related job postings.
+- Cleaned the dataset.
+- Created analysis-ready columns such as city_cleaned, experience_category, and role_category.
+- Analyzed the most repeated tools and skills.
+- Analyzed entry-level data-related roles.
+
+## Day 7 Initial Project Insights
+
+The first analysis shows that SQL, Python, Excel, Power BI, and Tableau are among the most repeated tools in Saudi data-related job postings.
+
+Entry-level roles commonly require a mix of technical and business skills, including data analysis, reporting, dashboarding, validation, and problem solving.
+
+The dataset also shows that data-related roles are broader than only Data Analyst or Data Scientist roles. They include BI, AI, Governance, Operations Analytics, and Internship opportunities.
+
+## Day 7 Next Steps
+
+- Start the visualization-focused week.
+- Improve charts and visual presentation.
+- Continue documenting insights clearly.
+- Prepare a LinkedIn post summarizing the first week of the project.
