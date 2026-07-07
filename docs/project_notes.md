@@ -446,3 +446,48 @@ The dataset also shows that data-related roles are broader than only Data Analys
 - Improve charts and visual presentation.
 - Continue documenting insights clearly.
 - Prepare a LinkedIn post summarizing the first week of the project.
+
+## Day 8 Progress
+
+- Created a Google Colab notebook named `05_visualization_improvements`.
+- Loaded the cleaned Saudi data jobs dataset from GitHub.
+- Used Seaborn to improve the visual presentation of the analysis.
+- Created improved charts for the most mentioned tools.
+- Created improved charts for the most mentioned skills.
+- Created a city distribution chart.
+- Created a role category distribution chart.
+- Created an experience level distribution chart.
+- Added short insights under each visualization.
+
+## Day 8 Initial Findings
+
+The improved visualizations made the project findings easier to read and compare.
+
+The most frequently mentioned tools included SQL, Python, Excel, Power BI, and Tableau.
+
+The most repeated skills included data analysis, reporting, dashboarding, validation, and problem solving.
+
+Riyadh appeared as the most common city in the dataset, while some postings were labeled as Not specified because they did not mention a specific city.
+
+The role category and experience level charts helped show that the dataset includes multiple data-related paths and is useful for students and early-career learners.
+
+## Day 8 Visualization Notes
+
+### Seaborn
+Used to create cleaner and more readable charts.
+
+### barplot
+Used to compare counts across tools, skills, cities, role categories, and experience levels.
+
+### Horizontal Bar Charts
+Used to make long labels easier to read.
+
+### whitegrid
+Used to make charts cleaner and easier to interpret.
+
+## Day 8 Next Steps
+
+- Continue Kaggle Data Visualization practice.
+- Improve chart labels and formatting if needed.
+- Save important charts for future reports and LinkedIn updates.
+- Start analyzing tools in more detail in the next project step.
