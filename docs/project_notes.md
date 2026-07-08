@@ -491,3 +491,58 @@ Used to make charts cleaner and easier to interpret.
 - Improve chart labels and formatting if needed.
 - Save important charts for future reports and LinkedIn updates.
 - Start analyzing tools in more detail in the next project step.
+
+- ## Day 9 Progress
+
+- Continued working in the Google Colab notebook named `05_visualization_improvements`.
+- Focused on analyzing the most frequently mentioned tools in more detail.
+- Used the cleaned Saudi data jobs dataset.
+- Split the `tools` column so each tool appears in a separate row.
+- Cleaned and normalized tool names to reduce duplicates and inconsistent naming.
+- Counted the most frequently mentioned tools across the dataset.
+- Created a bar chart showing the top tools mentioned in Saudi data-related job postings.
+- Created a line chart to show how tool frequency decreases by rank.
+- Compared top tools by role category using a heatmap.
+- Compared top tools by experience level using a heatmap.
+- Saved charts inside the `reports/figures` folder.
+- Saved analysis tables inside the `reports/tables` folder.
+- Continued Kaggle Data Visualization practice with Line Charts.
+
+## Day 9 Initial Findings
+
+The detailed tools analysis showed that SQL, Python, Excel, Power BI, and Tableau are among the most frequently mentioned tools in the dataset.
+
+This suggests that Saudi data-related roles require a mix of programming, data analysis, reporting, dashboarding, and business intelligence skills.
+
+The line chart helped show the frequency drop-off between the most common tools and the lower-ranked tools.
+
+The heatmaps helped compare how tool requirements differ across role categories and experience levels. This made it easier to see that some tools are more common in Data Analysis and BI roles, while others are more connected to Data Science or AI-related roles.
+
+## Day 9 Visualization Notes
+
+### lineplot
+Used to create a line chart showing the drop-off in tool frequency by rank.
+
+### barplot
+Used to compare the most frequently mentioned tools.
+
+### heatmap
+Used to compare tool mentions across role categories and experience levels.
+
+### crosstab
+Used to create comparison tables between tools and categories.
+
+### savefig
+Used to save charts as image files for GitHub, reporting, and future LinkedIn posts.
+
+### to_csv
+Used to save analysis tables as CSV files.
+
+## Day 9 Next Steps
+
+- Continue Kaggle Data Visualization practice.
+- Study Bar Charts in the next visualization lesson.
+- Analyze role categories in more detail.
+- Compare tools and skills by broader role categories.
+- Continue saving important charts and tables for the final report.
+- Prepare stronger insights for the upcoming mini report.
