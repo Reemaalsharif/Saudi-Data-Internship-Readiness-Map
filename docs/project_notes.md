@@ -546,3 +546,51 @@ Used to save analysis tables as CSV files.
 - Compare tools and skills by broader role categories.
 - Continue saving important charts and tables for the final report.
 - Prepare stronger insights for the upcoming mini report.
+
+- ## Day 10 Progress
+
+- Continued working on the visualization-focused analysis.
+- Focused on analyzing cleaned role categories instead of raw role types.
+- Compared the raw `role_type` column with the cleaned `role_category` column.
+- Counted job postings by role category.
+- Created bar charts to show the distribution of role categories.
+- Calculated the percentage of each role category.
+- Compared role categories with experience levels.
+- Saved role category charts inside the `reports/figures` folder.
+- Saved role category analysis tables inside the `reports/tables` folder.
+- Continued Kaggle Data Visualization practice with Bar Charts.
+
+## Day 10 Initial Findings
+
+The role category analysis showed that data-related jobs in Saudi Arabia are broader than only Data Analyst or Data Scientist roles.
+
+The cleaned role categories made it easier to compare different paths such as Data Analysis, Data Science, BI, AI, Governance, Internship, and Other.
+
+Using `role_category` instead of raw `role_type` made the analysis cleaner because similar job titles were grouped into broader and more understandable categories.
+
+The comparison with experience levels helped show which role categories are more common for Entry Level, Mid-Level, and Internship opportunities.
+
+## Day 10 Visualization Notes
+
+### barplot
+Used to compare the number of job postings across cleaned role categories.
+
+### countplot
+Used to count role categories directly from the dataset.
+
+### crosstab
+Used to compare role categories with experience levels.
+
+### melt
+Used to reshape the comparison table into a format suitable for grouped bar charts.
+
+### savefig
+Used to save charts as image files for GitHub and future reporting.
+
+## Day 10 Next Steps
+
+- Continue Kaggle Data Visualization practice.
+- Analyze experience categories in more detail.
+- Compare tools and skills by role category.
+- Add stronger insights for the mini report.
+- Continue preparing charts for GitHub, LinkedIn, and the final project report.
