@@ -595,7 +595,8 @@ Used to save charts as image files for GitHub and future reporting.
 - Add stronger insights for the mini report.
 - Continue preparing charts for GitHub, LinkedIn, and the final project report.
 
-- ## Day 11 Progress
+
+## Day 11 Progress
 
 - Created a Google Colab notebook named `07_experience_category_analysis`.
 - Loaded the cleaned Saudi data jobs dataset.
@@ -613,7 +614,7 @@ Used to save charts as image files for GitHub and future reporting.
 - Created a simple scatter plot for experience level rank and job count.
 - Saved charts inside the `reports/figures` folder.
 - Saved analysis tables inside the `reports/tables` folder.
-- Continued Kaggle Data Visualization practice with Heatmaps / Scatter Plots.
+- Continued Kaggle Data Visualization practice and worked on the Heatmaps / Scatter Plots lesson.
 
 ## Day 11 Initial Findings
 
@@ -637,13 +638,26 @@ Used to compare experience levels with role categories, tools, and skills.
 Used to create comparison tables between experience categories and other columns.
 
 ### scatterplot
-Used to create a simple visual comparison between experience rank and job count.
+Used to create a simple visual comparison between experience level rank and job count.
 
 ### savefig
 Used to save charts as image files for GitHub and future reporting.
 
 ### to_csv
 Used to save analysis tables as CSV files.
+
+## Day 11 Kaggle Notes
+
+Today I continued Kaggle Data Visualization practice.
+
+The lesson focused on using visualizations such as heatmaps and scatter plots to compare relationships in data.
+
+Key points learned:
+- Heatmaps are useful when comparing two categories at the same time.
+- Heatmaps make patterns easier to notice than reading raw tables.
+- Scatter plots are useful for showing relationships between two numerical values.
+- Choosing the right chart type depends on the question being answered.
+- Clear titles, labels, and readable formatting make charts easier to understand.
 
 ## Day 11 Next Steps
 
