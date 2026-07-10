@@ -594,3 +594,61 @@ Used to save charts as image files for GitHub and future reporting.
 - Compare tools and skills by role category.
 - Add stronger insights for the mini report.
 - Continue preparing charts for GitHub, LinkedIn, and the final project report.
+
+- ## Day 11 Progress
+
+- Created a Google Colab notebook named `07_experience_category_analysis`.
+- Loaded the cleaned Saudi data jobs dataset.
+- Focused on analyzing the cleaned `experience_category` column.
+- Counted job postings by experience level.
+- Calculated the percentage of each experience category.
+- Created a bar chart showing jobs by experience level.
+- Created a percentage bar chart for experience categories.
+- Compared experience levels with role categories using a crosstab table.
+- Created a heatmap showing experience level by role category.
+- Analyzed top tools by experience level.
+- Created a heatmap for top tools by experience level.
+- Analyzed top skills by experience level.
+- Created a heatmap for top skills by experience level.
+- Created a simple scatter plot for experience level rank and job count.
+- Saved charts inside the `reports/figures` folder.
+- Saved analysis tables inside the `reports/tables` folder.
+- Continued Kaggle Data Visualization practice with Heatmaps / Scatter Plots.
+
+## Day 11 Initial Findings
+
+The experience category analysis showed that most collected data-related roles are focused on Entry Level and Mid-Level opportunities.
+
+This supports the project goal because the dataset is useful for Computer Science students and early-career learners who want to understand what Saudi data roles require.
+
+The comparison between experience levels and role categories helped show which role types are more common for Entry Level, Mid-Level, and Internship roles.
+
+The tools and skills heatmaps showed that early-career data roles often require a mix of SQL, Python, Excel, dashboards, reporting, and analysis skills.
+
+## Day 11 Visualization Notes
+
+### barplot
+Used to compare the number and percentage of job postings across experience levels.
+
+### heatmap
+Used to compare experience levels with role categories, tools, and skills.
+
+### crosstab
+Used to create comparison tables between experience categories and other columns.
+
+### scatterplot
+Used to create a simple visual comparison between experience rank and job count.
+
+### savefig
+Used to save charts as image files for GitHub and future reporting.
+
+### to_csv
+Used to save analysis tables as CSV files.
+
+## Day 11 Next Steps
+
+- Continue Kaggle Data Visualization practice.
+- Start writing the first mini report inside the `docs` folder.
+- Summarize the main findings from tools, skills, roles, cities, and experience levels.
+- Create `docs/initial_findings.md`.
+- Prepare clearer insights for GitHub, LinkedIn, and the final project report.
