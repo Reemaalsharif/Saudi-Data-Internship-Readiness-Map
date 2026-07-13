@@ -316,7 +316,7 @@ Used to export the cleaned DataFrame as a CSV file.
 - Start preparing insights for the first LinkedIn project post.
 - Continue Kaggle Pandas practice.
 
-- ## Day 5 Progress
+## Day 5 Progress
 
 - Created a Google Colab notebook named `03_skills_tools_analysis`.
 - Loaded the cleaned Saudi data jobs dataset from GitHub.
@@ -492,7 +492,7 @@ Used to make charts cleaner and easier to interpret.
 - Save important charts for future reports and LinkedIn updates.
 - Start analyzing tools in more detail in the next project step.
 
-- ## Day 9 Progress
+## Day 9 Progress
 
 - Continued working in the Google Colab notebook named `05_visualization_improvements`.
 - Focused on analyzing the most frequently mentioned tools in more detail.
@@ -547,7 +547,7 @@ Used to save analysis tables as CSV files.
 - Continue saving important charts and tables for the final report.
 - Prepare stronger insights for the upcoming mini report.
 
-- ## Day 10 Progress
+## Day 10 Progress
 
 - Continued working on the visualization-focused analysis.
 - Focused on analyzing cleaned role categories instead of raw role types.
