@@ -667,7 +667,8 @@ Key points learned:
 - Create `docs/initial_findings.md`.
 - Prepare clearer insights for GitHub, LinkedIn, and the final project report.
 
-- ## Day 12 Progress
+
+## Day 12 Progress
 
 - Created a mini report file named `initial_findings.md` inside the `docs` folder.
 - Summarized the main findings from the analysis completed so far.
@@ -676,16 +677,19 @@ Key points learned:
 - Added an initial readiness takeaway for Computer Science students interested in Saudi data-related roles.
 - Connected the findings to practical preparation steps such as learning SQL, Python, Excel, Power BI, Tableau, reporting, and communication skills.
 - Continued organizing the project documentation for GitHub.
+- Completed the Kaggle Data Visualization course.
 
 ## Day 12 Initial Findings
 
-The first mini report shows that Saudi data-related roles require a mix of technical, analytical, and communication skills.
+The first mini report shows that Saudi data-related roles require a mix of technical, analytical, reporting, and communication skills.
 
 The most important tools observed so far include SQL, Python, Excel, Power BI, and Tableau.
 
 The findings also show that data-related roles are broader than only Data Analyst or Data Scientist positions. They include BI, AI, Governance, Internship, and other analytics-related roles.
 
 The experience analysis supports the project focus on students and early-career learners because many roles in the dataset are Entry Level or Mid-Level.
+
+Completing the Kaggle Data Visualization course helped improve the quality of the project charts and made the findings easier to explain through visualizations.
 
 ## Day 12 Documentation Notes
 
@@ -701,13 +705,34 @@ Used to describe the current dataset size and cleaned columns.
 ### Tools and Skills Findings
 Used to explain the most repeated tools and skills.
 
+### City, Role, and Experience Findings
+Used to summarize where roles are located, how they are categorized, and what experience levels are commonly required.
+
 ### Readiness Takeaway
 Used to connect the analysis results to practical preparation steps for Computer Science students.
+
+### Kaggle Data Visualization
+Completed to improve chart creation skills using Seaborn and to apply clearer visualizations to the project.
+
+## Day 12 Kaggle Notes
+
+Completed the Kaggle Data Visualization course.
+
+Main topics practiced:
+- Hello, Seaborn
+- Line Charts
+- Bar Charts
+- Heatmaps
+- Scatter Plots and other visualization techniques
+
+Main learning outcome:
+The course helped me understand how to choose suitable chart types, improve chart readability, and communicate data findings more clearly.
 
 ## Day 12 Next Steps
 
 - Review the quality of the charts and notebooks.
 - Check that all important files are uploaded to GitHub.
-- Continue or complete Kaggle Data Visualization practice.
 - Prepare a LinkedIn post about the most common tools in Saudi data-related roles.
-- Start preparing for the next review day.
+- Start the next review step for improving documentation, charts, and GitHub structure.
+- Prepare for expanding the dataset in the next project phase.
+- 
