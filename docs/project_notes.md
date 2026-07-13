@@ -781,3 +781,60 @@ Used to make the initial findings report easier to find for anyone visiting the 
 - Summarize the second week of the project.
 - Continue improving the project documentation.
 - Start preparing for the next phase, which includes expanding the dataset with more job postings.
+
+## Day 14 Progress
+
+- Reviewed the second week of the Saudi Data Jobs project.
+- Summarized the visualization and analysis work completed during Days 8 to 13.
+- Confirmed that the main charts and analysis notebooks are available in the GitHub repository.
+- Confirmed that the initial findings report is available inside the `docs` folder.
+- Reviewed the most frequently mentioned tools in the dataset.
+- Prepared a LinkedIn post about the most common tools in Saudi data-related roles.
+- Completed the second week of the project.
+- Prepared for the next phase, which will focus on expanding the dataset with more job postings.
+
+## Day 14 Weekly Summary
+
+During the second week, the project moved from basic analysis to clearer visual storytelling and documentation.
+
+Completed work during Week 2:
+- Improved charts using Seaborn.
+- Analyzed tools in more detail.
+- Analyzed cleaned role categories.
+- Analyzed experience categories.
+- Compared tools and skills by experience level.
+- Created heatmaps to compare categories.
+- Created the first mini report: `docs/initial_findings.md`.
+- Reviewed the GitHub repository structure.
+- Updated the README file.
+- Completed the Kaggle Data Visualization course.
+
+## Day 14 Main Findings
+
+The second week showed that Saudi data-related roles often require a mix of technical, analytical, reporting, dashboarding, and communication skills.
+
+The most frequently mentioned tools so far include:
+- SQL
+- Python
+- Excel
+- Power BI
+- Tableau
+
+The analysis also showed that data-related roles are broader than only Data Analyst or Data Scientist positions. They include BI, AI, Governance, Internship, and other analytics-related roles.
+
+The experience analysis supports the project focus on students and early-career learners because many roles in the dataset are Entry Level or Mid-Level.
+
+## Day 14 LinkedIn Notes
+
+A LinkedIn post was prepared to summarize one of the early findings from the project: the most common tools in Saudi data-related roles.
+
+The post focuses on the idea that beginner-friendly data roles are not only about programming. They also require reporting, dashboards, analysis, and communication skills.
+
+## Day 14 Next Steps
+
+- Start expanding the dataset with more Saudi data-related job postings.
+- Collect additional job and internship postings.
+- Update the raw dataset.
+- Clean the new data and update the cleaned dataset.
+- Re-run the analysis after expanding the dataset.
+- Compare whether the same tool and skill patterns continue with a larger sample.
