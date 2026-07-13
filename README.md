@@ -30,3 +30,19 @@ What skills should a Computer Science student in Saudi Arabia learn to become re
 ## Project Status
 
 In progress.
+
+## Initial Findings
+
+An initial findings report has been added to summarize the main insights from the first analysis phase.
+
+The report covers:
+- Most mentioned tools
+- Most repeated skills
+- City distribution
+- Role category findings
+- Experience level findings
+- Initial readiness takeaway for Computer Science students
+
+You can find it here:
+
+[`docs/initial_findings.md`](docs/initial_findings.md)
