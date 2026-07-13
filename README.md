@@ -140,7 +140,9 @@ As part of this project, I practiced and applied:
 - Data visualization using Seaborn and Matplotlib
 - Markdown documentation
 - GitHub project organization
+- Completed Kaggle Data Visualization
 
+  
 ## Project Status
 
 In progress — initial analysis phase completed.
