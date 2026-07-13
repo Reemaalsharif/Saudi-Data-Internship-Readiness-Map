@@ -735,4 +735,49 @@ The course helped me understand how to choose suitable chart types, improve char
 - Prepare a LinkedIn post about the most common tools in Saudi data-related roles.
 - Start the next review step for improving documentation, charts, and GitHub structure.
 - Prepare for expanding the dataset in the next project phase.
-- 
+
+## Day 13 Progress
+
+- Reviewed the GitHub repository structure.
+- Checked that the main folders are organized: `data`, `notebooks`, and `docs`.
+- Reviewed the uploaded notebooks from the first analysis phase.
+- Checked that the cleaned dataset and analysis notebooks are available.
+- Reviewed the main charts created during the visualization phase.
+- Confirmed that the initial findings report is available inside the `docs` folder.
+- Updated the README to include a link to the initial findings report.
+- Reviewed the overall project flow from data collection to cleaning, analysis, visualization, and documentation.
+- Confirmed completion of the Kaggle Data Visualization course.
+
+## Day 13 Review Findings
+
+The project is now more organized and easier to understand from a portfolio perspective.
+
+The repository includes:
+- Raw and cleaned datasets.
+- Multiple analysis notebooks.
+- Daily project notes.
+- An initial findings report.
+- Visual analysis covering tools, skills, cities, role categories, and experience levels.
+
+The project now shows a clear workflow from collecting job postings to creating insights that can help Computer Science students prepare for Saudi data-related roles.
+
+## Day 13 Documentation Notes
+
+### Repository Review
+Used to check that the main project files are uploaded and organized clearly.
+
+### Notebook Review
+Used to make sure the analysis notebooks are understandable and connected to the project goal.
+
+### Chart Review
+Used to check that the visualizations are readable and suitable for GitHub, LinkedIn, and future reporting.
+
+### README Update
+Used to make the initial findings report easier to find for anyone visiting the GitHub repository.
+
+## Day 13 Next Steps
+
+- Prepare a LinkedIn post about the most common tools in Saudi data-related roles.
+- Summarize the second week of the project.
+- Continue improving the project documentation.
+- Start preparing for the next phase, which includes expanding the dataset with more job postings.
