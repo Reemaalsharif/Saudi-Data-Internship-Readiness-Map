@@ -1004,3 +1004,71 @@ This step is important because future analysis should use the cleaned dataset in
 - Compare the new results with the initial findings from the first 25 postings.
 - Check whether the most common tools and skills changed after expanding the dataset.
 - Update the project findings based on the larger dataset.
+
+
+
+## Day 18 Progress
+
+- Re-ran the main analysis using the expanded cleaned dataset.
+- Used the updated cleaned dataset: `data/saudi_data_jobs_cleaned.csv`.
+- Confirmed that the expanded cleaned dataset contains 45 Saudi data-related job postings.
+- Checked the dataset shape, columns, missing values, duplicate rows, duplicate job IDs, and duplicate job links.
+- Re-analyzed the most mentioned tools in the expanded dataset.
+- Re-analyzed the most repeated skills in the expanded dataset.
+- Re-analyzed job distribution by city.
+- Re-analyzed job distribution by role category.
+- Re-analyzed job distribution by experience category.
+- Created updated analysis tables for the expanded dataset.
+- Created updated charts for tools, skills, cities, role categories, and experience categories.
+- Continued Kaggle Intro to Machine Learning with the Model Validation lesson.
+
+## Day 18 Expanded Dataset Analysis Notes
+
+Today’s work focused on running the main analysis again after expanding the dataset.
+
+The dataset was expanded from the initial 25 job postings to 45 job postings.
+
+The updated analysis included:
+- Top tools
+- Top skills
+- Jobs by city
+- Jobs by role category
+- Jobs by experience category
+- Tools by role category
+- Skills by experience category
+
+This step is important because the first analysis was based on a smaller sample.  
+After expanding the dataset, the analysis gives a more reliable view of common tools, skills, cities, and role types in Saudi data-related job postings.
+
+## Day 18 Kaggle Notes
+
+Today I continued Kaggle Intro to Machine Learning and studied Model Validation.
+
+Model validation is the process of checking how well a machine learning model performs on data it has not seen before.
+
+The main idea is that a model should not only perform well on the training data.  
+It should also perform well on new unseen data.
+
+Main concepts learned:
+- Training data
+- Validation data
+- Model performance
+- Generalization
+- Checking whether a model can make reliable predictions on new data
+
+## Day 18 Main Takeaway
+
+After expanding the dataset to 45 job postings, the project findings became stronger because the analysis is based on a larger sample.
+
+The updated analysis helps check whether the early findings from the first 25 job postings still appear after adding more roles.
+
+This prepares the project for the next step, which is comparing the initial 25-posting results with the expanded 45-posting results.
+
+## Day 18 Next Steps
+
+- Compare the initial 25-posting results with the expanded 45-posting results.
+- Check whether the top tools changed after expanding the dataset.
+- Check whether the top skills changed after expanding the dataset.
+- Compare city distribution before and after expansion.
+- Compare role category distribution before and after expansion.
+- Continue Kaggle Intro to Machine Learning with Underfitting and Overfitting.
