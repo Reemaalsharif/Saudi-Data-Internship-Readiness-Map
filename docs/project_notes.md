@@ -936,3 +936,71 @@ After the second expansion:
 
 
 
+## Day 17 Progress
+
+- Cleaned the expanded Saudi Data Jobs dataset after increasing it to 45 job postings.
+- Created a new cleaning notebook: `08_expanded_dataset_cleaning.ipynb`.
+- Loaded the updated raw dataset from `data/saudi_data_jobs_dataset.csv`.
+- Checked the dataset shape, columns, missing values, duplicate rows, duplicate job IDs, and duplicate job links.
+- Confirmed that the raw dataset contains 45 job postings.
+- Created updated analysis-ready columns for the expanded dataset:
+  - `city_cleaned`
+  - `experience_category`
+  - `role_category`
+- Saved the updated cleaned dataset as `data/saudi_data_jobs_cleaned.csv`.
+- Kept the raw dataset and cleaned dataset as separate files because they serve different purposes.
+
+## Day 17 Cleaning Notes
+
+The raw dataset and cleaned dataset both contain 45 job postings, but they are not duplicates.
+
+The raw dataset is:
+
+`data/saudi_data_jobs_dataset.csv`
+
+It contains the original collected job postings before cleaning.
+
+The cleaned dataset is:
+
+`data/saudi_data_jobs_cleaned.csv`
+
+It contains the same job postings after adding cleaning and analysis-ready columns.
+
+The cleaned dataset includes three additional columns:
+- `city_cleaned`
+- `experience_category`
+- `role_category`
+
+These columns make the dataset easier to analyze and visualize.
+
+## Day 17 Data Quality Checks
+
+During the cleaning process, I checked:
+
+- Dataset shape
+- Column names
+- Missing values
+- Duplicate rows
+- Duplicate job IDs
+- Duplicate job links
+- City values
+- Experience level values
+- Role type values
+
+The goal was to make sure the expanded dataset is ready for updated analysis.
+
+## Day 17 Main Takeaway
+
+Today’s work focused on preparing the expanded dataset for analysis.
+
+The dataset now has a clean version with 45 job postings and analysis-ready columns.
+
+This step is important because future analysis should use the cleaned dataset instead of the raw dataset.
+
+## Day 17 Next Steps
+
+- Re-run the tools and skills analysis using the updated cleaned dataset.
+- Re-create updated charts using 45 job postings.
+- Compare the new results with the initial findings from the first 25 postings.
+- Check whether the most common tools and skills changed after expanding the dataset.
+- Update the project findings based on the larger dataset.
