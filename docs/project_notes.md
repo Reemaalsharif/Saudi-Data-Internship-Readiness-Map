@@ -1115,3 +1115,34 @@ Update the final charts using the expanded dataset.
 Improve the visualization quality of the updated results.
 
 Continue documenting the updated findings for the final project report.
+
+
+
+Day 20 Progress
+
+Updated the main visualizations using the expanded Saudi data jobs dataset.
+
+Used the cleaned dataset containing 45 job postings.
+
+Created updated charts for:
+
+Top tools mentioned in Saudi data-related jobs.
+Top skills mentioned in job postings.
+Job distribution by city.
+Role category distribution.
+Experience category distribution.
+Tools requirements by role category.
+
+Saved the final charts inside the reports/figures folder for GitHub and future project documentation.
+
+Day 20 Visualization Notes
+
+The updated visualizations provide a clearer view of the common tools, skills, roles, and experience levels required in Saudi data-related jobs.
+
+Using the expanded dataset helped create more representative charts compared to the initial analysis with 25 job postings.
+
+Day 20 Next Steps
+
+Start building the skill roadmap based on the identified tools and skills.
+
+Continue improving the project documentation.
