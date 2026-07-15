@@ -1072,3 +1072,46 @@ This prepares the project for the next step, which is comparing the initial 25-p
 - Compare city distribution before and after expansion.
 - Compare role category distribution before and after expansion.
 - Continue Kaggle Intro to Machine Learning with Underfitting and Overfitting.
+
+
+
+## Day 19 Progress
+
+Compared the initial Saudi Data Jobs dataset containing 25 job postings with the expanded dataset containing 45 job postings.
+
+Compared the results between both datasets to check whether the initial findings remained consistent after increasing the dataset size.
+
+The comparison included:
+
+- Role category distribution.
+- Experience category distribution.
+- Most mentioned tools.
+- Most repeated skills.
+
+Created comparison tables and visualizations to show the differences between the initial and expanded datasets.
+
+Saved the comparison results to use for improving the final project analysis.
+
+## Day 19 Comparison Findings
+
+The comparison helped evaluate how the results changed after expanding the dataset from 25 to 45 job postings.
+
+The expanded dataset provided more job postings and a broader view of Saudi data-related roles.
+
+Comparing both datasets helped identify whether the main patterns observed in the initial analysis continued to appear after adding more data.
+
+## Day 19 Data Analysis Notes
+
+Dataset comparison is useful to understand how increasing the sample size affects analysis results.
+
+A larger dataset can provide more reliable insights by reducing the impact of individual job postings.
+
+Comparing percentages is also important because the two datasets have different sizes.
+
+## Day 19 Next Steps
+
+Update the final charts using the expanded dataset.
+
+Improve the visualization quality of the updated results.
+
+Continue documenting the updated findings for the final project report.
