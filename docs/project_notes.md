@@ -1118,31 +1118,50 @@ Continue documenting the updated findings for the final project report.
 
 
 
-Day 20 Progress
+## Day 20 Progress
 
-Updated the main visualizations using the expanded Saudi data jobs dataset.
+- Created a new visualization notebook: `11_final_visualizations.ipynb`.
+- Loaded the expanded cleaned dataset from `data/saudi_data_jobs_cleaned.csv`.
+- Confirmed that the dataset contains 45 Saudi data-related job postings.
+- Updated the main project visualizations using the expanded dataset.
+- Created final charts for:
+  - Top tools mentioned in the dataset.
+  - Top skills mentioned in the dataset.
+  - Job distribution by city.
+  - Role category distribution.
+  - Experience category distribution.
+  - Tools requirements by role category using heatmap.
+- Saved the final charts inside the `final_figures` folder.
+- Prepared the updated visualizations for GitHub and future project documentation.
 
-Used the cleaned dataset containing 45 job postings.
+## Day 20 Final Visualization Notes
 
-Created updated charts for:
+The final visualizations were created using the expanded cleaned dataset containing 45 job postings.
 
-Top tools mentioned in Saudi data-related jobs.
-Top skills mentioned in job postings.
-Job distribution by city.
-Role category distribution.
-Experience category distribution.
-Tools requirements by role category.
+The updated charts provide a clearer view of:
+- The most common tools required in Saudi data-related jobs.
+- The most repeated skills mentioned in job postings.
+- The distribution of roles and experience levels.
+- The relationship between tools and different role categories.
 
-Saved the final charts inside the reports/figures folder for GitHub and future project documentation.
+These visualizations will help present the project findings more clearly and will be used later for dashboard development and final project reporting.
 
-Day 20 Visualization Notes
+## Day 20 Visualization Techniques
 
-The updated visualizations provide a clearer view of the common tools, skills, roles, and experience levels required in Saudi data-related jobs.
+During this stage, different visualization methods were used:
 
-Using the expanded dataset helped create more representative charts compared to the initial analysis with 25 job postings.
+- Bar charts were used to compare tools, skills, cities, role categories, and experience categories.
+- Heatmaps were used to compare tool requirements across different role categories.
+- The final charts were saved as images for GitHub and future project presentation.
 
-Day 20 Next Steps
+## Day 20 Main Takeaway
 
-Start building the skill roadmap based on the identified tools and skills.
+The expanded dataset helped create more representative visualizations compared to the initial analysis based on 25 job postings.
 
-Continue improving the project documentation.
+Updating the charts after expanding the dataset helped ensure that the final project visuals are based on the latest cleaned dataset.
+
+## Day 20 Next Steps
+
+- Start extracting the main technical skills and tools from the analysis.
+- Build the readiness roadmap for Computer Science students interested in data-related roles.
+- Continue improving project documentation.
