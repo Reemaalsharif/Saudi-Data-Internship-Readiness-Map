@@ -1165,3 +1165,104 @@ Updating the charts after expanding the dataset helped ensure that the final pro
 - Start extracting the main technical skills and tools from the analysis.
 - Build the readiness roadmap for Computer Science students interested in data-related roles.
 - Continue improving project documentation.
+
+## Day 21 Progress
+
+- Reviewed the third phase of the Saudi Data Jobs project after completing the expanded dataset analysis and final visualizations.
+- Reviewed the completed project notebooks and confirmed that the main analysis workflow is organized from data collection, cleaning, analysis, and visualization.
+- Completed the remaining Kaggle learning tasks related to:
+  - Pandas
+  - Data Visualization
+  - Intro to Machine Learning
+- Completed the related Kaggle certificates and added them to the project achievements.
+- Reviewed the project documentation structure and prepared the next phase focused on extracting skills, tools, and building the readiness roadmap.
+- Organized the completed learning progress to support the project portfolio and LinkedIn updates.
+
+## Day 21 Learning and Project Review Notes
+
+The project reached an important milestone after completing the main data analysis stages.
+
+Completed project foundations:
+
+- Raw dataset collection.
+- Data cleaning and preparation.
+- Exploratory data analysis.
+- Skills and tools analysis.
+- Role category analysis.
+- Experience category analysis.
+- Dataset expansion from 25 to 45 job postings.
+- Dataset comparison between initial and expanded samples.
+- Final visualization updates.
+
+The completed Kaggle certificates improved the ability to analyze, visualize, and work with real-world datasets using Python and data analysis techniques.
+
+## Day 21 Main Takeaway
+
+The project now has a complete analysis foundation, including a cleaned dataset, multiple analysis notebooks, visualizations, documentation, and completed learning milestones.
+
+The next phase will focus on transforming the analysis results into practical insights and a readiness roadmap for Computer Science students interested in data-related careers.
+
+## Day 21 Next Steps
+
+- Extract the most important technical skills from the dataset.
+- Analyze the most frequently mentioned tools.
+- Analyze job responsibilities.
+- Build beginner and intermediate skill roadmaps.
+
+
+## Day 22 Progress
+
+- Created a new technical skills analysis notebook: `12_technical_skills_analysis.ipynb`.
+- Loaded the expanded cleaned dataset from `data/saudi_data_jobs_cleaned.csv`.
+- Confirmed that the dataset contains 45 Saudi data-related job postings.
+- Extracted and analyzed the skills column from the job postings.
+- Split multiple skills into separate rows to allow individual skill analysis.
+- Cleaned and standardized skill names to reduce duplicates and inconsistent naming.
+- Removed duplicate skills within the same job posting to avoid repeated counting.
+- Filtered the dataset to focus on technical skills only.
+- Calculated the frequency of technical skills across the collected job postings.
+- Created a ranking table for the most frequently mentioned technical skills.
+- Created a bar chart showing the top technical skills in Saudi data-related jobs.
+- Saved the technical skills analysis table and visualization for GitHub and future reporting.
+
+## Day 22 Technical Skills Findings
+
+The technical skills analysis identified the most frequently required technical skills in Saudi data-related job postings.
+
+The top technical skills included:
+
+- Data Analysis.
+- Dashboard Development.
+- Data Integrity.
+- Data Governance.
+- Data Validation.
+- Machine Learning.
+- Data Visualization.
+- Business Intelligence.
+- Data Quality.
+- Data Modeling.
+
+The results show that Saudi data-related roles require a combination of analytical, data management, visualization, and business intelligence skills.
+
+## Day 22 Technical Skills Notes
+
+During this stage, the following techniques were used:
+
+- `explode()` was used to transform multiple skills stored in one cell into separate rows.
+- `drop_duplicates()` was used to prevent counting the same skill multiple times within one job posting.
+- `replace()` was used to standardize similar skill names.
+- `value_counts()` was used to calculate the frequency of each technical skill.
+- `barh()` was used to create a horizontal bar chart for easier comparison of skill frequencies.
+
+## Day 22 Main Takeaway
+
+The technical skills analysis shows that data careers are not only focused on programming, but also require strong skills in data analysis, data quality, governance, and visualization.
+
+These findings will be used in the next project steps to analyze tools, responsibilities, and build a readiness roadmap for Computer Science students.
+
+## Day 22 Next Steps
+
+- Analyze the most frequently mentioned tools in Saudi data-related jobs.
+- Compare tool requirements across different role categories.
+- Continue building the readiness roadmap based on market requirements.
+
