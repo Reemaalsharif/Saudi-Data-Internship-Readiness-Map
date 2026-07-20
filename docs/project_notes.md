@@ -1312,3 +1312,62 @@ These results will support the next stages of the project, including responsibil
 - Analyze job responsibilities mentioned in Saudi data-related roles.
 - Identify common tasks and responsibilities across different roles.
 - Continue building the beginner and intermediate readiness roadmap.
+
+- ## Day 24 Progress
+
+- Created a new job focus analysis notebook: `14_job_focus_analysis.ipynb`.
+- Loaded the cleaned Saudi Data Jobs dataset containing 45 job postings.
+- Analyzed the `notes` column to extract common focus areas mentioned in Saudi data-related job descriptions.
+- Cleaned and standardized job description text to prepare it for analysis.
+- Created a list of important data-related focus keywords including:
+  - Data Analysis.
+  - Analytics.
+  - Dashboard Development.
+  - Reporting.
+  - Business Intelligence.
+  - Data Visualization.
+  - Machine Learning.
+  - SQL.
+  - Python.
+  - Data Governance.
+- Calculated how frequently each focus area appeared across job postings.
+- Created a ranking table showing the most common job focus areas.
+- Created a bar chart to visualize the top focus areas in Saudi data-related jobs.
+- Compared job focus areas across different role categories using role-based analysis.
+- Created a heatmap to visualize the relationship between focus areas and job categories.
+- Saved the final visualizations for GitHub and future project reporting.
+
+## Day 24 Job Focus Findings
+
+The analysis focused on understanding the main areas emphasized in Saudi data-related job descriptions.
+
+The results provide insights into what employers focus on when describing data roles, including analytical tasks, reporting, dashboards, business intelligence, data visualization, and machine learning-related activities.
+
+The role-based comparison helps identify how job focus areas differ between different career paths such as Data Analyst, Data Scientist, and BI-related roles.
+
+These findings provide additional context beyond skills and tools by showing the practical areas where data professionals are expected to contribute.
+
+## Day 24 Analysis Notes
+
+During this stage, different data analysis techniques were applied:
+
+- Text cleaning was used to standardize job description information.
+- Keyword-based analysis was used to identify important focus areas within job descriptions.
+- Frequency counting was used to measure how often each focus area appeared.
+- Bar charts were used to compare the most common focus areas.
+- Crosstab analysis was used to compare focus areas across role categories.
+- Heatmaps were used to visualize relationships between job categories and focus areas.
+
+## Day 24 Main Takeaway
+
+The job focus analysis shows that Saudi data-related roles combine analytical, reporting, visualization, and business-oriented activities.
+
+Understanding these focus areas helps identify not only the skills and tools required by employers, but also the practical responsibilities and expectations within different data career paths.
+
+The results will support the next stage of the project by helping build a beginner and intermediate readiness roadmap.
+
+## Day 24 Next Steps
+
+- Build the beginner skill roadmap based on the analyzed skills, tools, and job focus areas.
+- Identify the essential knowledge areas for students starting a data career.
+- Create an intermediate roadmap for students aiming for advanced data roles.
