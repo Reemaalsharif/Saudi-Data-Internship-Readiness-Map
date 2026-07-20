@@ -1429,3 +1429,62 @@ The beginner roadmap provides a clear starting point for students who want to pr
 - Build an intermediate-level roadmap for students who already have basic data skills.
 - Add more advanced technologies and concepts based on the Saudi data job market analysis.
 - Continue improving the final career readiness roadmap.
+
+- ## Day 26 Progress
+
+- Created a new roadmap notebook: `16_intermediate_readiness_roadmap.ipynb`.
+- Built an intermediate-level data career roadmap based on the findings from the previous project analysis stages.
+- Used insights from:
+  - Technical Skills Analysis (Day 22).
+  - Tools Analysis (Day 23).
+  - Job Focus Analysis (Day 24).
+  - Beginner Readiness Roadmap (Day 25).
+- Designed a learning path for students who already have basic data skills and want to progress toward professional data roles.
+- Organized the intermediate roadmap into advanced learning stages:
+  - Advanced Data Analysis.
+  - Advanced SQL and Databases.
+  - Statistics and Modeling.
+  - Machine Learning.
+  - Advanced BI and Reporting.
+  - Cloud and Data Platforms.
+- Defined the main skills and concepts required for each stage, including:
+  - Advanced Pandas and Data Manipulation.
+  - Advanced SQL, Data Modeling, and Database Design.
+  - Statistics, Probability, and Hypothesis Testing.
+  - Machine Learning Fundamentals and Model Evaluation.
+  - Advanced Power BI Features and Dashboard Design.
+  - Azure Data Services and Cloud Data Concepts.
+- Assigned learning priorities to highlight the most important areas for intermediate-level preparation.
+- Created a visual representation of the intermediate learning roadmap.
+- Saved the roadmap visualization for GitHub and future project documentation.
+
+## Day 26 Intermediate Roadmap Notes
+
+The intermediate roadmap was created to guide learners who already understand the basic concepts of data analysis and want to develop more advanced skills.
+
+The roadmap focuses on moving from basic data handling toward professional-level capabilities by adding stronger SQL knowledge, statistical understanding, machine learning foundations, advanced business intelligence, and cloud data concepts.
+
+The learning sequence was designed to follow a realistic progression from analytical foundations toward more advanced data career requirements.
+
+## Day 26 Roadmap Approach
+
+The roadmap was developed by connecting the previous project findings with a practical career progression:
+
+- Skills analysis identified the important technical areas required by employers.
+- Tools analysis highlighted commonly requested technologies.
+- Job focus analysis showed the main areas emphasized in Saudi data-related job descriptions.
+- The beginner roadmap provided the foundation for developing the next learning stage.
+
+These insights were transformed into an intermediate roadmap that represents the skills needed to move toward more advanced data roles.
+
+## Day 26 Main Takeaway
+
+The intermediate roadmap extends the beginner path by introducing advanced analytical, technical, and professional skills.
+
+It provides a structured progression for learners who want to move beyond entry-level preparation and become more competitive for data-related opportunities.
+
+## Day 26 Next Steps
+
+- Combine the beginner and intermediate roadmaps into a complete data career readiness framework.
+- Create the final roadmap connecting Computer Science students with suitable data career paths.
+- Prepare the final documentation and presentation of the project findings.
