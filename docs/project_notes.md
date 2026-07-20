@@ -1266,3 +1266,49 @@ These findings will be used in the next project steps to analyze tools, responsi
 - Compare tool requirements across different role categories.
 - Continue building the readiness roadmap based on market requirements.
 
+
+## Day 23 Progress
+
+- Created a new tools analysis notebook: `13_tools_analysis.ipynb`.
+- Loaded the expanded cleaned dataset from `data/saudi_data_jobs_cleaned.csv`.
+- Confirmed that the dataset contains 45 Saudi data-related job postings.
+- Extracted and analyzed the tools column from job postings.
+- Split multiple tools into separate rows for individual analysis.
+- Cleaned and standardized tool names.
+- Removed duplicate tools within the same job posting to avoid repeated counting.
+- Calculated the frequency of each tool across the collected job postings.
+- Created a ranking table for the most frequently mentioned tools.
+- Created a visualization showing the top tools required in Saudi data-related jobs.
+- Compared tool requirements across different role categories using a heatmap.
+- Saved the analysis tables and visualizations for GitHub and future project reporting.
+
+## Day 23 Tools Findings
+
+The tools analysis identified the most frequently mentioned tools in Saudi data-related job postings.
+
+The results show that SQL is the most frequently requested tool, followed by Excel, Python, and Power BI.
+
+The findings highlight that data roles require a combination of database skills, programming skills, spreadsheet analysis, and business intelligence tools.
+
+The role-based comparison also shows that tool requirements vary depending on the career path, with different roles emphasizing different combinations of tools.
+
+## Day 23 Visualization Notes
+
+During this stage, different visualization methods were used:
+
+- Bar charts were used to compare the frequency of tools across job postings.
+- Heatmaps were used to analyze the relationship between tools and role categories.
+
+These visualizations provide a clearer understanding of the tools required for different data career paths.
+
+## Day 23 Main Takeaway
+
+The tools analysis shows that successful data professionals need a balanced toolkit combining SQL, programming, analysis, and visualization platforms.
+
+These results will support the next stages of the project, including responsibilities analysis and building the readiness roadmap.
+
+## Day 23 Next Steps
+
+- Analyze job responsibilities mentioned in Saudi data-related roles.
+- Identify common tasks and responsibilities across different roles.
+- Continue building the beginner and intermediate readiness roadmap.
