@@ -262,7 +262,7 @@ Completed certifications:
 - Kaggle Pandas
 - Kaggle Data Visualization
 - Kaggle Intro to Machine Learning
-
+- Kaggle Intermediate Machine Learning
 ---
 
 # Current Project Status
