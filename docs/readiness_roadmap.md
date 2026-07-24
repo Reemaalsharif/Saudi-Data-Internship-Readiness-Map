@@ -4,79 +4,59 @@
 
 This roadmap was created based on the analysis of Saudi data-related job postings.
 
-The goal is to identify the most important skills, tools, and knowledge areas required by employers and organize them into a practical learning path for Computer Science students preparing for data-related internships and early-career roles.
+The goal is to organize the most requested skills and tools into a practical learning path for Computer Science students preparing for data internships and early-career roles.
 
 ---
 
-# Beginner Stage
+# Learning Roadmap
 
-## Goal
+## Beginner Level
 
-Build the fundamental skills required to start working with data.
+Focus:
+Building the foundation required for data careers.
 
-## Recommended Skills
-
-### Programming
+Skills:
 - Python Basics
-
-### Database Skills
-- SQL Fundamentals
-
-### Data Handling
+- SQL and Database Fundamentals
 - Excel
 - Data Cleaning
-
-### Data Analysis
 - Pandas
 - Basic Data Analysis
 
----
 
-# Intermediate Stage
+## Intermediate Level
 
-## Goal
+Focus:
+Developing stronger analytical and technical capabilities.
 
-Develop stronger analytical and technical skills required for data-related roles.
-
-## Recommended Skills
-
-### Advanced Analysis
+Skills:
 - Advanced SQL
 - Statistics
 - Data Modeling
-
-### Business Intelligence
+- Machine Learning Fundamentals
+- Model Evaluation
 - Power BI
 - Dashboard Development
 - Reporting
 
-### Machine Learning
-- Machine Learning Fundamentals
-- Model Evaluation
 
----
+## Career Ready Level
 
-# Career Ready Stage
+Focus:
+Preparing for internships and job opportunities.
 
-## Goal
-
-Prepare students for internships and entry-level data roles.
-
-## Recommended Skills
-
-- Building Real Data Projects
+Skills:
+- Real Data Projects
 - GitHub Portfolio
 - CV Preparation
 - Interview Preparation
 
----
 
-# Data Career Paths
+# Career Paths
 
 ## Data Analyst
 
-Main Focus:
-
+Focus:
 - SQL
 - Excel
 - Python
@@ -85,8 +65,7 @@ Main Focus:
 
 ## BI Analyst
 
-Main Focus:
-
+Focus:
 - Power BI
 - Reporting
 - Dashboards
@@ -94,8 +73,7 @@ Main Focus:
 
 ## Data Scientist
 
-Main Focus:
-
+Focus:
 - Python
 - Statistics
 - Machine Learning
@@ -103,21 +81,19 @@ Main Focus:
 
 ## Analytics Engineer
 
-Main Focus:
-
+Focus:
 - SQL
 - Data Modeling
 - Data Pipelines
 
----
 
 # Methodology
 
-This roadmap was developed using:
+This roadmap was created using:
 
 - Technical skills analysis.
 - Tools analysis.
 - Role category analysis.
 - Experience level analysis.
 
-The roadmap connects Saudi data job market requirements with a structured learning path for students.
+The objective is to connect Saudi data job market requirements with a structured learning path.
