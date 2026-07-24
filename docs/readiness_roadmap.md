@@ -97,3 +97,16 @@ This roadmap was created using:
 - Experience level analysis.
 
 The objective is to connect Saudi data job market requirements with a structured learning path.
+
+
+---
+
+# Visual Roadmap
+
+## Final Data Career Roadmap
+
+![Final Data Career Roadmap Chart](../reports/figures/final_data_career_roadmap_chart.png)
+
+## Roadmap Details Table
+
+![Final Data Career Roadmap Table](../reports/figures/final_data_career_roadmap_table.png)
