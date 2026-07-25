@@ -82,7 +82,16 @@ reports/
     ├── city_distribution_final.png
     ├── role_category_final.png
     ├── experience_category_final.png
-    └── tools_by_role_heatmap_final.png
+    ├── tools_by_role_heatmap_final.png
+    ├── top_technical_skills.png
+    ├── top_job_focus_areas.png
+    ├── focus_by_role_heatmap.png
+    ├── beginner_readiness_roadmap.png
+    ├── intermediate_readiness_roadmap.png
+    ├── final_data_career_roadmap.png
+    ├── final_data_career_roadmap_chart.png
+    └── final_data_career_roadmap_table.png
+
 
 docs/
 │
