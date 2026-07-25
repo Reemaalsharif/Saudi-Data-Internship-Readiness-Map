@@ -50,6 +50,7 @@ data/
 │
 ├── saudi_data_jobs_dataset.csv
 └── saudi_data_jobs_cleaned.csv
+└── saudi_data_jobs_powerbi.csv
 
 
 notebooks/
@@ -70,13 +71,19 @@ notebooks/
 ├── 14_job_focus_analysis.ipynb
 ├── 15_beginner_readiness_roadmap.ipynb
 ├── 16_intermediate_readiness_roadmap.ipynb
-└── 17_final_data_career_roadmap.ipynb
+├── 17_final_data_career_roadmap.ipynb
+└── 18_powerbi_data_preparation.ipynb
 
 
 reports/
 │
 └── figures/
-
+    ├── top_tools_final.png
+    ├── top_skills_final.png
+    ├── city_distribution_final.png
+    ├── role_category_final.png
+    ├── experience_category_final.png
+    └── tools_by_role_heatmap_final.png
 
 docs/
 │
@@ -153,6 +160,24 @@ The most common tools included:
 - Tableau
 
 Additional analysis was performed to compare tool requirements across different role categories.
+
+
+## Power BI Dashboard Preparation
+
+The project dataset was prepared for Power BI dashboard development.
+
+A dedicated Power BI-ready dataset was created:
+
+- saudi_data_jobs_powerbi.csv
+
+The dashboard focuses on presenting insights related to:
+
+- Required skills.
+- Required tools.
+- Job locations.
+- Role categories.
+- Experience levels.
+
 
 ## Job Focus Analysis
 
@@ -276,14 +301,15 @@ Completed:
 ✅ Job focus analysis.  
 ✅ Beginner and intermediate roadmap development.  
 ✅ Final data career roadmap.
-
+✅ Power BI dataset preparation.
+✅ Final visualization generation.
 ---
 
 # Next Steps
 
 The next stages of the project include:
 
-- Building an interactive Power BI dashboard.
-- Improving project documentation.
+- Building and refining the Power BI dashboard.
+- Writing detailed project findings.
+- Documenting technical aspects of the project.
 - Preparing the final project report.
-- Enhancing GitHub and LinkedIn portfolio presentation.
