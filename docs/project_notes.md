@@ -1667,3 +1667,257 @@ The project moved from analyzing job market data using Python into building inte
 - Import the Power BI-ready dataset into Power BI Desktop.
 - Build the first dashboard page.
 - Create initial visuals for jobs, roles, cities, and experience categories.
+
+
+## Day 30 Progress
+
+- Started the Power BI dashboard development stage using the prepared Power BI-ready dataset.
+
+- Imported the dataset into Power BI:
+  - `saudi_data_jobs_powerbi.csv`
+
+- Reviewed the imported dataset structure and confirmed that the required fields are available for dashboard development.
+
+- Created the first dashboard page and prepared the workspace for building Power BI visualizations.
+
+- Started creating initial dashboard visuals to represent the main project insights.
+
+- Verified that the dataset is correctly connected and ready for visualization development.
+
+## Day 30 Dashboard Notes
+
+The purpose of this stage was to move from data preparation into the visualization phase by loading the prepared dataset into Power BI and creating the first dashboard structure.
+
+The dashboard development started by connecting the cleaned job market dataset with Power BI visuals to present insights about Saudi data internship and job opportunities.
+
+## Day 30 Development Approach
+
+The dashboard creation process focused on:
+
+- Loading the prepared Power BI dataset.
+- Reviewing available fields.
+- Creating the first dashboard page.
+- Preparing the structure for adding analytical charts.
+
+## Day 30 Main Takeaway
+
+This stage established the foundation of the Power BI dashboard by connecting the cleaned dataset with the visualization environment.
+
+## Day 30 Next Steps
+
+- Create charts for the required tools.
+- Add more dashboard visualizations.
+- Improve dashboard analysis and presentation.
+
+
+
+## Day 31 Progress
+
+- Created Power BI charts to analyze the required tools in Saudi data internship and job postings.
+
+- Developed the tools visualization to identify the most frequently requested technologies.
+
+- Reviewed the chart output and ensured that the visualization represents tool requirements clearly.
+
+- Improved the chart presentation by adjusting the visual organization and readability.
+
+- Updated project notes with the dashboard development progress.
+
+## Day 31 Chart Development Notes
+
+The purpose of this stage was to transform the extracted tools information into visual insights using Power BI charts.
+
+The tools chart helps identify the technologies and platforms that appear most frequently in Saudi data-related opportunities.
+
+## Day 31 Development Approach
+
+The chart development process focused on:
+
+- Selecting the required tool information.
+- Creating suitable Power BI visualizations.
+- Reviewing chart readability.
+- Preparing the dashboard for additional analysis.
+
+## Day 31 Main Takeaway
+
+This stage converted tool requirements from the dataset into clear visual information that supports understanding market demands.
+
+## Day 31 Next Steps
+
+- Create charts for cities and job roles.
+- Improve dashboard formatting.
+- Continue expanding dashboard insights.
+
+
+
+## Day 32 Progress
+
+- Created Power BI charts for analyzing cities and job role categories.
+
+- Added visualizations for:
+  - City distribution.
+  - Role categories.
+
+- Reviewed the distribution of data-related opportunities across Saudi cities.
+
+- Analyzed different job categories to understand available career paths.
+
+- Improved dashboard formatting and organized visual elements.
+
+## Day 32 Dashboard Notes
+
+The purpose of this stage was to expand the dashboard analysis by adding location-based and role-based insights.
+
+These visualizations help understand where opportunities are available and what types of data roles are commonly requested.
+
+## Day 32 Development Approach
+
+The dashboard improvement process focused on:
+
+- Adding city analysis.
+- Adding role category analysis.
+- Improving visual organization.
+- Enhancing dashboard readability.
+
+## Day 32 Main Takeaway
+
+This stage provided a broader understanding of the Saudi data job market by analyzing opportunity locations and role categories.
+
+## Day 32 Next Steps
+
+- Add experience and skills analysis.
+- Review dashboard completeness.
+- Save the updated dashboard version.
+
+
+
+## Day 33 Progress
+
+- Created Power BI charts for analyzing skills and experience levels.
+
+- Added visualizations for:
+  - Required skills.
+  - Experience categories.
+
+- Reviewed the main dashboard analysis areas, including:
+  - Skills.
+  - Tools.
+  - Cities.
+  - Role categories.
+  - Experience levels.
+
+- Organized dashboard visuals to improve clarity and presentation.
+
+- Saved the updated dashboard version.
+
+## Day 33 Dashboard Notes
+
+The purpose of this stage was to complete the main analytical sections of the Power BI dashboard by adding skills and experience level analysis.
+
+The dashboard now provides a complete overview of the main requirements in Saudi data internship and job postings.
+
+## Day 33 Development Approach
+
+The process focused on:
+
+- Visualizing required skills.
+- Analyzing experience requirements.
+- Reviewing dashboard completeness.
+- Improving visual arrangement.
+
+## Day 33 Main Takeaway
+
+This stage completed the main dashboard analysis by covering the key factors required to understand data career requirements.
+
+## Day 33 Next Steps
+
+- Write dashboard documentation.
+- Explain dashboard objectives and insights.
+- Create documentation files.
+
+
+
+## Day 34 Progress
+
+- Created the dashboard documentation file:
+
+  - `docs/dashboard_notes.md`
+
+- Added documentation covering:
+  - Dashboard overview.
+  - Dataset description.
+  - Dashboard objectives.
+  - Visualization explanations.
+  - Key insights.
+  - Conclusion.
+
+- Reviewed the documentation to ensure that it matches the created Power BI dashboard.
+
+## Day 34 Dashboard Documentation Notes
+
+The purpose of this stage was to document the Power BI dashboard development process and explain the insights generated from Saudi internship and job postings.
+
+The documentation provides a clear explanation of the dashboard purpose, structure, and analysis results.
+
+## Day 34 Development Approach
+
+The documentation process focused on:
+
+- Explaining dashboard objectives.
+- Describing visualizations.
+- Recording project insights.
+- Organizing documentation inside the GitHub repository.
+
+## Day 34 Main Takeaway
+
+This stage completed the documentation part of the dashboard development process.
+
+## Day 34 Next Steps
+
+- Perform final dashboard review.
+- Check dashboard quality and organization.
+- Prepare the final project output.
+
+
+
+## Day 35 Progress
+
+- Completed the final review of the Power BI dashboard.
+
+- Reviewed all dashboard components and confirmed that the main analysis areas are included:
+  - Skills analysis.
+  - Tools analysis.
+  - City distribution.
+  - Role categories.
+  - Experience levels.
+
+- Checked the dashboard layout and visual organization.
+
+- Verified that the dashboard presents the project findings clearly.
+
+- Completed the practical Power BI dashboard development stage.
+
+## Day 35 Dashboard Review Notes
+
+The purpose of this stage was to perform a final quality review of the Power BI dashboard before moving to the next project phase.
+
+The final dashboard combines the analyzed job market information into a clear visualization product.
+
+## Day 35 Review Approach
+
+The review process focused on:
+
+- Checking dashboard completeness.
+- Reviewing visual clarity.
+- Ensuring all important insights are represented.
+- Preparing the final dashboard output.
+
+## Day 35 Main Takeaway
+
+The Power BI dashboard development stage was completed successfully, producing a clear visualization of Saudi data internship and job market requirements.
+
+## Day 35 Next Steps
+
+- Prepare the dashboard for portfolio presentation.
+- Continue improving project documentation.
+- Move to the next learning phase.
