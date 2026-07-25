@@ -550,10 +550,581 @@ SQL appeared as one of the most important tools across the dataset, followed by 
 
 This suggests that students aiming for data-related careers should build a strong foundation in SQL, Python, and data visualization before advancing to more specialized technologies.
 
-## 8. City Analysis
+## 8. Role Analysis
 
-## 9. Career Readiness Roadmap
+The project analyzed different data-related job roles in Saudi opportunities to understand the variety of career paths available in the data field.
 
-## 10. Power BI Dashboard
+The purpose of this analysis was to move beyond job titles and identify broader career categories that represent different skill requirements and responsibilities.
 
-## 11. Conclusion
+---
+
+## Role Classification Process
+
+The original job titles contained different naming patterns and descriptions.
+
+To make comparison easier, job titles were grouped into broader role categories using the `role_category` column.
+
+This classification allowed the analysis to compare different career paths based on their requirements.
+
+---
+
+## Identified Role Categories
+
+The dataset includes several data-related career categories, including:
+
+- Data Analysis.
+- Business Intelligence.
+- Data Science.
+- AI-related roles.
+- Data Governance.
+- Other analytics-related roles.
+- Internship opportunities.
+
+---
+
+## Career Path Differences
+
+The analysis shows that data careers are not limited to a single role such as Data Analyst or Data Scientist.
+
+Different roles require different combinations of skills and tools:
+
+### Data Analyst
+
+Common focus areas:
+
+- Data analysis.
+- Reporting.
+- Visualization.
+- SQL and spreadsheet tools.
+
+### Business Intelligence Roles
+
+Common focus areas:
+
+- Dashboard development.
+- Reporting.
+- Business insights.
+- Visualization tools.
+
+### Data Science Roles
+
+Common focus areas:
+
+- Python.
+- Machine Learning.
+- Statistical analysis.
+- Advanced data techniques.
+
+### Data Governance Roles
+
+Common focus areas:
+
+- Data quality.
+- Data management.
+- Data standards.
+
+---
+
+## Role Distribution Visualization
+
+The role categories were visualized to understand the distribution of different data-related opportunities.
+
+![Role Categories](../reports/figures/role_category_final.png)
+
+---
+
+## Key Finding
+
+The analysis indicates that the Saudi data job market includes multiple career pathways with overlapping skills.
+
+Students preparing for data careers should focus on building strong foundations in data analysis, programming, databases, and visualization while understanding the differences between specialized career paths.
+
+## 9. Experience Analysis
+
+The project analyzed the experience requirements mentioned in Saudi data-related internship and job postings to understand the level of opportunities available for different career stages.
+
+The purpose of this analysis was to identify whether the Saudi data job market provides opportunities suitable for students, beginners, and more experienced professionals.
+
+---
+
+## Experience Classification Process
+
+The original experience requirements contained different formats and descriptions, including internship programs, entry-level positions, and roles requiring specific years of experience.
+
+To make the analysis more consistent, the experience information was transformed into broader categories using the `experience_category` column.
+
+The categories include:
+
+- Internship.
+- Entry Level.
+- Mid-Level.
+- Senior.
+- Not Specified.
+
+---
+
+## Experience Level Insights
+
+The classification helped identify the distribution of opportunities across different experience stages.
+
+The analysis provides a clearer understanding of:
+
+- Availability of internship opportunities for students.
+- Entry-level roles suitable for beginners.
+- Positions requiring previous professional experience.
+
+---
+
+## Importance for Career Preparation
+
+Understanding experience requirements helps students choose an appropriate preparation path.
+
+For students and beginners, the analysis highlights the importance of:
+
+- Building practical projects.
+- Developing technical foundations.
+- Creating a portfolio.
+- Gaining hands-on experience through internships or training opportunities.
+
+---
+
+## Visualization
+
+The experience category distribution was visualized to show the different levels of opportunities available in the dataset.
+
+![Experience Categories](../reports/figures/experience_category_final.png)
+
+---
+
+## Key Finding
+
+The analysis shows that data-related opportunities are available across multiple experience levels. However, students preparing for internships and early-career roles should focus on building foundational skills, practical projects, and evidence of their abilities through portfolios and documentation.
+
+## 10. City Analysis
+
+The project analyzed the geographic distribution of Saudi data-related internship and job opportunities to understand where these opportunities are concentrated.
+
+The purpose of this analysis was to identify the locations with higher availability of data-related roles and provide additional context about the Saudi data job market.
+
+---
+
+## City Data Preparation
+
+The original location information contained different formats, including specific city names and general location descriptions.
+
+To improve consistency, the dataset was transformed using the `city_cleaned` column.
+
+This standardized location information and allowed more accurate comparison between different locations.
+
+---
+
+## Geographic Distribution Analysis
+
+The analysis examined the number of job opportunities available across different locations in Saudi Arabia.
+
+This helped identify:
+
+- Cities with higher concentrations of data-related opportunities.
+- Locations with lower representation in the dataset.
+- The overall geographic distribution of data career opportunities.
+
+---
+
+## Visualization
+
+The city distribution was visualized to show how Saudi data-related opportunities are distributed geographically.
+
+![City Distribution](../reports/figures/city_distribution_final.png)
+
+---
+
+## Key Finding
+
+The analysis provides insight into the geographic concentration of data-related opportunities in Saudi Arabia.
+
+The results can help students understand where data career opportunities are more commonly available and consider location factors when searching for internships and early-career roles.
+
+## 11. Career Readiness Roadmap
+
+Based on the analysis of Saudi data-related internship and job opportunities, the project developed a structured career readiness roadmap to help students understand the skills and knowledge areas needed to prepare for data careers.
+
+The roadmap connects market requirements with progressive learning stages, starting from fundamental skills and progressing toward career-ready capabilities.
+
+---
+
+## Beginner Level
+
+The beginner stage focuses on building the essential foundations required to start working with data.
+
+Main focus areas include:
+
+- Python fundamentals.
+- SQL fundamentals.
+- Excel.
+- Data cleaning.
+- Basic data analysis.
+- Data visualization fundamentals.
+
+At this stage, students should focus on understanding how to work with data, perform basic analysis, and develop strong technical foundations.
+
+---
+
+## Intermediate Level
+
+The intermediate stage focuses on developing stronger analytical and technical capabilities.
+
+Main focus areas include:
+
+- Advanced SQL.
+- Statistics.
+- Data modeling.
+- Machine Learning fundamentals.
+- Advanced Power BI.
+- Cloud data concepts.
+
+This stage prepares students to handle more complex analysis tasks and work with larger data workflows.
+
+---
+
+## Career Ready Level
+
+The career-ready stage focuses on applying knowledge through practical experience and professional preparation.
+
+Main focus areas include:
+
+- Building real-world projects.
+- Developing a GitHub portfolio.
+- Preparing a professional CV.
+- Practicing technical interviews.
+- Demonstrating practical data analysis skills.
+
+---
+
+## Roadmap Connection to Career Paths
+
+The roadmap supports different data career paths by connecting required skills with possible roles:
+
+### Data Analyst
+
+Focus areas:
+
+- SQL.
+- Excel.
+- Python.
+- Data visualization.
+- Reporting.
+
+### BI Analyst
+
+Focus areas:
+
+- Power BI.
+- Dashboard development.
+- Reporting.
+- Business insights.
+
+### Data Scientist
+
+Focus areas:
+
+- Python.
+- Statistics.
+- Machine Learning.
+- Advanced analytics.
+
+### Analytics Engineer
+
+Focus areas:
+
+- SQL.
+- Data modeling.
+- Data pipelines.
+
+---
+
+## Roadmap Visualization
+
+The final career readiness roadmap summarizes the learning progression from beginner foundations to career-ready skills.
+
+![Career Roadmap](../reports/figures/final_data_career_roadmap.png)
+
+---
+
+## Key Finding
+
+The analysis shows that becoming ready for data-related internships requires a combination of technical skills, analytical abilities, practical projects, and professional preparation.
+
+A structured learning path helps students prioritize the most valuable skills based on real Saudi data job market requirements.
+
+## 12. Power BI Dashboard
+
+After completing the data analysis stages, the project prepared the dataset for Power BI dashboard development.
+
+The purpose of this stage was to transform the cleaned dataset into a structured format suitable for creating interactive visual reports and presenting the main findings in a clearer way.
+
+---
+
+## Power BI Dataset Preparation
+
+A dedicated dataset was created for dashboard development:
+
+`saudi_data_jobs_powerbi.csv`
+
+This dataset contains the main fields required for visualization and reporting, including:
+
+- Job title.
+- Company.
+- City.
+- Role category.
+- Experience category.
+- Skills.
+- Tools.
+
+---
+
+## Dataset Validation
+
+Before preparing the Power BI dataset, several validation steps were performed:
+
+- Reviewing dataset structure.
+- Checking data types.
+- Checking missing values.
+- Checking duplicate records.
+- Confirming the availability of required analysis columns.
+
+The final Power BI dataset contains:
+
+- 45 job posting records.
+- 7 dashboard-ready columns.
+
+---
+
+## Dashboard Focus Areas
+
+The prepared dataset supports visualization of key project insights, including:
+
+- Required tools.
+- Required skills.
+- Job locations.
+- Role categories.
+- Experience levels.
+
+These insights allow users to understand the Saudi data job market requirements more effectively.
+
+---
+
+## Power BI Preparation Workflow
+
+The workflow followed these steps:
+
+1. Load the cleaned dataset.
+2. Review dataset quality.
+3. Select dashboard-ready columns.
+4. Export the Power BI dataset.
+5. Use the prepared file for dashboard development.
+
+---
+
+## Key Finding
+
+Preparing a dedicated Power BI dataset created a clear connection between data analysis and visualization, allowing the project findings to be presented through interactive dashboards and reports.  
+
+## 13. Technical Implementation
+
+This project was implemented using a complete data analysis workflow that combines data preparation, exploratory analysis, visualization, documentation, and dashboard preparation.
+
+The implementation focused on transforming raw job market data into structured insights that support understanding Saudi data career requirements.
+
+---
+
+## Development Environment
+
+The project was developed using:
+
+- Google Colab for notebook development and execution.
+- GitHub for version control and project organization.
+- Markdown documentation for recording analysis steps and findings.
+
+---
+
+## Programming and Analysis Tools
+
+The main technologies used in the project include:
+
+### Python
+
+Used as the primary programming language for:
+
+- Data processing.
+- Data cleaning.
+- Analysis.
+- Visualization.
+
+### Pandas
+
+Used for:
+
+- Loading datasets.
+- Data manipulation.
+- Cleaning operations.
+- Creating analysis-ready datasets.
+
+### Matplotlib and Seaborn
+
+Used for:
+
+- Creating statistical visualizations.
+- Comparing categories.
+- Presenting analysis results clearly.
+
+### SQL Concepts
+
+Database concepts were applied to understand:
+
+- Structured data organization.
+- Tables and records.
+- Data querying and aggregation concepts.
+
+### Power BI
+
+Used for preparing the dataset and supporting dashboard development by transforming analysis results into interactive reports.
+
+---
+
+## Project Workflow Implementation
+
+The technical workflow followed these main stages:
+
+1. Collecting and organizing Saudi data-related job postings.
+2. Cleaning and validating the dataset.
+3. Creating analysis-ready columns.
+4. Performing exploratory data analysis.
+5. Analyzing skills, tools, roles, and experience requirements.
+6. Creating visualizations.
+7. Preparing Power BI dataset.
+8. Documenting findings and building the readiness roadmap.
+
+---
+
+## Project Organization
+
+The project was organized into:
+
+- Data files containing raw and cleaned datasets.
+- Jupyter notebooks for each analysis stage.
+- Visualization files for presenting findings.
+- Documentation files explaining methodology and results.
+
+This structure supports reproducibility and makes the project easier to understand and maintain.
+
+---
+
+## Technical Outcome
+
+The final implementation demonstrates a complete data analytics pipeline, starting from raw job market data collection and ending with structured insights, visualizations, documentation, and dashboard-ready data.
+
+## 14. Key Findings
+
+The analysis of Saudi data-related internship and job postings provided several important insights about the skills, tools, roles, and requirements expected in the local data job market.
+
+The main findings from the project are summarized below.
+
+---
+
+## 1. Technical Skills Requirements
+
+The analysis showed that employers require a combination of technical and analytical skills.
+
+The most frequently identified skills include:
+
+- Data Analysis.
+- Reporting.
+- Problem Solving.
+- Data Governance.
+- Data Integrity.
+- Data Validation.
+- Dashboard Development.
+- Data Visualization.
+- Business Intelligence.
+- Machine Learning.
+
+These findings indicate that successful candidates need both technical capabilities and the ability to interpret and communicate data insights.
+
+---
+
+## 2. Tool Requirements
+
+The tools analysis showed that database, programming, and visualization technologies are among the most important requirements.
+
+The most frequently mentioned tools include:
+
+- SQL.
+- Python.
+- Power BI.
+- Excel.
+- Tableau.
+
+This highlights the importance of building strong foundations in data querying, programming, and visualization for students preparing for data careers.
+
+---
+
+## 3. Career Path Diversity
+
+The analysis showed that the Saudi data job market includes multiple career pathways, including:
+
+- Data Analysis.
+- Business Intelligence.
+- Data Science.
+- AI-related roles.
+- Data Governance.
+- Analytics roles.
+
+This demonstrates that students should understand different career paths instead of focusing on a single job title.
+
+---
+
+## 4. Experience Requirements
+
+The experience analysis showed that data-related opportunities exist across different career stages, including:
+
+- Internship opportunities.
+- Entry-level positions.
+- Mid-level roles.
+- Senior positions.
+
+For students and beginners, building practical projects and developing a strong technical foundation are important steps toward internship readiness.
+
+---
+
+## 5. Market Preparation Insight
+
+The overall findings suggest that becoming ready for data-related internships requires a combination of:
+
+- Programming skills.
+- Database knowledge.
+- Data analysis capabilities.
+- Visualization skills.
+- Practical project experience.
+- Professional portfolio development.
+
+The project findings were used to create a structured career readiness roadmap based on real Saudi data job market requirements.
+
+## 15. Conclusion
+
+This project provided an analysis of Saudi data-related internship and job opportunities to understand the skills, tools, roles, and requirements expected in the local data job market.
+
+Through data collection, cleaning, exploratory analysis, visualization, and documentation, the project transformed raw job market information into meaningful insights that help identify the capabilities needed for data career preparation.
+
+The analysis showed that successful preparation for data-related roles requires a combination of:
+
+- Programming skills.
+- Database knowledge.
+- Data analysis capabilities.
+- Visualization skills.
+- Practical project experience.
+- Professional portfolio development.
+
+The developed career readiness roadmap provides a structured learning direction for students and beginners by connecting market requirements with progressive skill development stages.
+
+Overall, this project demonstrates a complete data analytics workflow, starting from collecting real-world data and preparing it for analysis, to extracting insights and presenting them in a structured format that supports career decision-making.
+
