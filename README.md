@@ -49,9 +49,8 @@ This project explores:
 data/
 │
 ├── saudi_data_jobs_dataset.csv
-└── saudi_data_jobs_cleaned.csv
+├── saudi_data_jobs_cleaned.csv
 └── saudi_data_jobs_powerbi.csv
-
 
 notebooks/
 │
