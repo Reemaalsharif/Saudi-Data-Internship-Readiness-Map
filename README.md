@@ -364,16 +364,16 @@ Completed learning certificates and practical courses:
 
 Completed:
 
-✅ Data collection and cleaning.
-✅ Exploratory data analysis.
-✅ Skills and tools analysis.
-✅ Role and experience analysis.
-✅ Job focus analysis.
-✅ Career readiness roadmap development.
-✅ Power BI dataset preparation.
-✅ Power BI dashboard development.
-✅ Final visualization generation.
-✅ Technical documentation and final report.
+- ✅ Data collection and cleaning.
+- ✅ Exploratory data analysis.
+- ✅ Skills and tools analysis.
+- ✅ Role and experience analysis.
+- ✅ Job focus analysis.
+- ✅ Career readiness roadmap development.
+- ✅ Power BI dataset preparation.
+- ✅ Power BI dashboard development.
+- ✅ Final visualization generation.
+- ✅ Technical documentation and final report.
 
 The final project demonstrates a complete workflow from data collection and cleaning to market analysis, visualization, Power BI dashboard development, and career readiness planning.
 
