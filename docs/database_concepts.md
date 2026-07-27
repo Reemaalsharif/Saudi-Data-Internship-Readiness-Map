@@ -2,124 +2,128 @@
 
 ## Overview
 
-This project uses structured job posting data to analyze Saudi data-related internship and job market requirements.
+This project uses structured job posting data to analyze Saudi data-related job market requirements.
 
-The dataset workflow is connected to several database concepts, including data organization, storage, cleaning, transformation, and analysis.
+The dataset workflow is connected to database concepts including data organization, storage, cleaning, transformation, and analytical processing.
 
 ---
 
-# 1. Dataset as Structured Data
+## 1. Dataset as Structured Data
 
 The project dataset is stored in CSV format, which represents structured tabular data.
 
-Each row represents one job posting record, while each column represents a specific attribute.
+Each row represents one job posting record, while each column represents a specific attribute related to that opportunity.
 
 Examples of columns:
 
-- job_title
-- company
-- city
-- role_category
-- experience_category
-- skills
-- tools
+- `job_id`
+- `job_title`
+- `company`
+- `city`
+- `role_category`
+- `experience_category`
+- `skills`
+- `tools`
 
 ---
 
-# 2. Tables, Rows, and Columns
+## 2. Tables, Rows, and Columns
 
 The dataset follows a table-based structure similar to relational databases.
 
-- Rows represent individual job postings.
-- Columns represent attributes of each posting.
-- Each record contains information about a specific opportunity.
+- Rows represent individual job posting records.
+- Columns represent attributes of each record.
+- Each record contains information about a specific data-related opportunity.
+
+This structure allows data to be stored, filtered, transformed, and analyzed efficiently.
 
 ---
 
-# 3. Data Cleaning and Transformation
+## 3. Data Cleaning and Transformation
 
-Before analysis, the dataset went through data preparation steps.
+Before analysis, the dataset went through several data preparation steps.
 
 These included:
 
-- Removing duplicate records.
 - Checking missing values.
+- Checking duplicate records.
 - Standardizing city names.
-- Creating new analysis columns.
+- Creating new analysis-ready columns.
+- Transforming raw job information into structured categories.
 
 Examples of created columns:
 
-- city_cleaned
-- experience_category
-- role_category
+- `city_cleaned`
+- `experience_category`
+- `role_category`
 
-These transformations improve data consistency and analysis quality.
+These transformations improve data consistency and support more reliable analysis.
 
 ---
 
-# 4. Relational Database Concepts
+## 4. Relational Database Concepts
 
-The project analysis can be represented using relational database concepts.
+The project can be represented using relational database concepts.
 
-Possible tables:
+Possible table design:
 
-## Jobs Table
+### Jobs Table
 
 Contains general information about job postings.
 
 Examples:
 
-- job_id
-- job_title
-- company
-- city
+- `job_id`
+- `job_title`
+- `company`
+- `city`
 
-## Skills and Tools Information
+### Skills and Tools Information
 
-Contains technical requirements extracted from job descriptions.
+Contains technical requirements extracted from job postings.
 
 Examples:
 
-- skills
-- tools
+- `skills`
+- `tools`
 
-## Classification Information
+### Classification Information
 
 Contains categorized analysis fields.
 
 Examples:
 
-- role_category
-- experience_category
+- `role_category`
+- `experience_category`
+
+This separation represents how data can be organized into related tables in database systems.
 
 ---
 
-# 5. Data Analysis Workload
+## 5. Data Analysis Workload
 
 The project performs analytical operations similar to database queries.
 
 Examples:
 
 - Counting job opportunities by city.
-- Finding the most requested tools.
-- Comparing role categories.
+- Finding the most requested skills and tools.
+- Comparing different role categories.
 - Analyzing experience requirements.
 
-These operations are similar to aggregation and filtering operations in SQL.
+These operations are similar to SQL aggregation, filtering, and grouping operations.
 
 ---
 
-# 6. Power BI Connection
+## 6. Power BI Connection
 
-The prepared dataset was transformed into a Power BI-ready CSV file.
+The cleaned dataset was prepared as a Power BI-ready CSV file:
 
-Power BI uses structured data to create:
+`saudi_data_jobs_powerbi.csv`
 
-- Interactive dashboards.
-- Visual analysis.
-- Business insights.
+Power BI uses this structured data to create visual analysis and dashboards.
 
-The final dataset supports analysis of:
+The dashboard analyzes:
 
 - Skills.
 - Tools.
@@ -129,8 +133,8 @@ The final dataset supports analysis of:
 
 ---
 
-# Conclusion
+## Conclusion
 
-This project demonstrates how structured data can be collected, cleaned, transformed, and analyzed using data engineering and database concepts.
+This project demonstrates how structured data can be collected, cleaned, transformed, and analyzed using concepts related to databases and analytics.
 
-The workflow connects data preparation, database organization, analytics, and visualization into a complete data analysis pipeline.
+The workflow connects data preparation, structured data organization, analytical processing, and visualization into a complete data analysis pipeline.
