@@ -141,13 +141,10 @@ The roadmap analysis generated:
 
 ![Final Data Career Roadmap](../reports/figures/final_data_career_roadmap.png)
 
-### Final Data Career Roadmap Chart
-
-![Final Data Career Roadmap Chart](../reports/figures/final_data_career_roadmap_chart.png)
-
 ### Final Data Career Roadmap Table
 
 ![Final Data Career Roadmap Table](../reports/figures/final_data_career_roadmap_table.png)
+
 ---
 
 # Conclusion
