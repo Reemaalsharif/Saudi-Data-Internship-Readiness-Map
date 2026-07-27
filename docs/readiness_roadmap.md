@@ -2,9 +2,9 @@
 
 ## Overview
 
-This roadmap was created based on the analysis of Saudi data-related job postings.
+This roadmap was developed based on the analysis of Saudi data-related job postings.
 
-The goal is to organize the most requested skills and tools into a practical learning path for Computer Science students preparing for data internships and early-career roles.
+The goal is to organize the most requested skills, tools, and knowledge areas into a practical learning path for Computer Science students preparing for data internships and early-career opportunities.
 
 ---
 
@@ -12,101 +12,139 @@ The goal is to organize the most requested skills and tools into a practical lea
 
 ## Beginner Level
 
-Focus:
-Building the foundation required for data careers.
+### Focus
 
-Skills:
-- Python Basics
-- SQL and Database Fundamentals
-- Excel
-- Data Cleaning
-- Pandas
-- Basic Data Analysis
+Building the foundation required to start a career in data.
 
+### Skills
+
+- Python Basics.
+- SQL and Database Fundamentals.
+- Excel.
+- Data Cleaning.
+- Pandas.
+- Basic Data Analysis.
+- Data Visualization Basics.
+
+---
 
 ## Intermediate Level
 
-Focus:
-Developing stronger analytical and technical capabilities.
+### Focus
 
-Skills:
-- Advanced SQL
-- Statistics
-- Data Modeling
-- Machine Learning Fundamentals
-- Model Evaluation
-- Power BI
-- Dashboard Development
-- Reporting
+Developing stronger analytical and technical capabilities required for professional data roles.
 
+### Skills
+
+- Advanced SQL.
+- Statistics.
+- Data Modeling.
+- Machine Learning Fundamentals.
+- Model Evaluation.
+- Power BI.
+- Dashboard Development.
+- Reporting.
+
+---
 
 ## Career Ready Level
 
-Focus:
-Preparing for internships and job opportunities.
+### Focus
 
-Skills:
-- Real Data Projects
-- GitHub Portfolio
-- CV Preparation
-- Interview Preparation
+Preparing students for internships and early-career data opportunities.
 
+### Skills
+
+- Real Data Projects.
+- GitHub Portfolio.
+- CV Preparation.
+- Interview Preparation.
+- Technical Documentation.
+
+---
 
 # Career Paths
 
+The project connects different skill combinations with possible data career paths.
+
 ## Data Analyst
 
-Focus:
-- SQL
-- Excel
-- Python
-- Data Visualization
+### Focus
 
+- SQL.
+- Excel.
+- Python.
+- Data Visualization.
+- Reporting.
+
+---
 
 ## BI Analyst
 
-Focus:
-- Power BI
-- Reporting
-- Dashboards
+### Focus
 
+- Power BI.
+- Reporting.
+- Dashboard Development.
+- Business Intelligence.
+
+---
 
 ## Data Scientist
 
-Focus:
-- Python
-- Statistics
-- Machine Learning
+### Focus
 
+- Python.
+- Statistics.
+- Machine Learning.
+- Model Evaluation.
+
+---
 
 ## Analytics Engineer
 
-Focus:
-- SQL
-- Data Modeling
-- Data Pipelines
+### Focus
 
+- SQL.
+- Data Modeling.
+- Data Pipelines.
+- Data Platforms.
+
+---
 
 # Methodology
 
-This roadmap was created using:
+This roadmap was created based on:
 
 - Technical skills analysis.
 - Tools analysis.
 - Role category analysis.
 - Experience level analysis.
+- Job focus analysis.
 
-The objective is to connect Saudi data job market requirements with a structured learning path.
-
+The objective is to connect Saudi data job market requirements with a structured learning path that helps students understand what skills and technologies they should prioritize.
 
 ---
 
-# Visual Roadmap
+# Roadmap Outputs
 
-## Final Data Career Roadmap
+The roadmap analysis generated:
 
-![Final Data Career Roadmap Chart](../reports/figures/final_data_career_roadmap_chart.png)
+- Beginner Data Career Roadmap.
+- Intermediate Data Career Roadmap.
+- Final Data Career Roadmap.
+- Career Path Mapping.
 
-## Roadmap Details Table
+Visual outputs include:
 
-![Final Data Career Roadmap Table](../reports/figures/final_data_career_roadmap_table.png)
+- Final Data Career Roadmap.
+- Final Data Career Roadmap Chart.
+- Final Data Career Roadmap Table.
+
+---
+
+# Conclusion
+
+This roadmap transforms Saudi data job market insights into a practical preparation framework.
+
+It helps Computer Science students understand the progression from foundational skills to professional readiness for data-related careers.
