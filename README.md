@@ -31,15 +31,17 @@ This project explores:
 
 # Tools Used
 
-- Python
-- Pandas
-- Seaborn
-- Matplotlib
-- SQL / MySQL
-- Power BI
-- Excel / CSV
-- Google Colab
-- GitHub
+Python
+Pandas
+Seaborn
+Matplotlib
+SQL / MySQL
+Power BI
+Excel
+CSV Data Processing
+Google Colab
+GitHub
+Markdown Documentation
 
 ---
 
@@ -105,13 +107,21 @@ docs/
 ├── technical_summary.md
 └── final_report.md
 
+
+
+powerbi/
+│
+└── Saudi_Data_Internship_Readiness_Dashboard.pbix
+
 ```
 
 ---
 
 # Dataset
-
 The final cleaned dataset contains **45 Saudi data-related job postings** collected from different data career categories.
+
+The dataset was expanded from an initial **25 job postings to 45 job postings** to increase the reliability of the analysis and provide more representative insights into Saudi data-related job market requirements.
+
 
 The dataset includes roles related to:
 
@@ -209,7 +219,18 @@ The identified focus areas included:
 - Machine Learning
 
 ---
+## Final Visualizations
 
+The project generated final visualizations to summarize market requirements, including:
+
+- Top requested tools.
+- Top required skills.
+- Job distribution by city.
+- Role category distribution.
+- Experience category distribution.
+- Tool requirements across role categories.
+
+---
 # Career Readiness Roadmap
 
 Based on the Saudi data job market analysis, the project developed a structured roadmap for Computer Science students preparing for data careers.
@@ -298,25 +319,33 @@ Throughout this project, I practiced and applied:
 - Markdown documentation.
 - Building career readiness frameworks.
 - Technical project documentation.
-  
-Completed certifications:
+
+## Certifications and Learning
+
+Completed learning certificates and practical courses:
 
 - Kaggle Pandas
 - Kaggle Data Visualization
 - Kaggle Intro to Machine Learning
 - Kaggle Intermediate Machine Learning
+- Power BI Practical Training
+- Microsoft DP-900 Azure Data Fundamentals Preparation
+
+  
 ---
 
 Project Completion Status
 
 Completed:
 
-✅ Data collection and cleaning.  
-✅ Exploratory data analysis.  
-✅ Skills and tools analysis.  
-✅ Role and experience analysis.  
-✅ Career readiness roadmap development.  
-✅ Power BI dataset preparation.  
-✅ Final visualization generation.  
+✅ Data collection and cleaning.
+✅ Exploratory data analysis.
+✅ Skills and tools analysis.
+✅ Role and experience analysis.
+✅ Job focus analysis.
+✅ Career readiness roadmap development.
+✅ Power BI dataset preparation.
+✅ Power BI dashboard development.
+✅ Final visualization generation.
 ✅ Technical documentation and final report.
 
