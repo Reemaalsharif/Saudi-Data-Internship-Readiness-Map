@@ -95,7 +95,6 @@ reports/
     └── final_data_career_roadmap_table.png
 
 
-
 docs/
 │
 ├── project_notes.md
@@ -188,15 +187,15 @@ The most common tools included:
 Additional analysis was performed to compare tool requirements across different role categories.
 
 
-## Power BI Dashboard Preparation
+## Power BI Dashboard
 
-The project dataset was prepared for Power BI dashboard development.
+A Power BI dashboard was developed to present the main findings of the Saudi data job market analysis.
 
 A dedicated Power BI-ready dataset was created:
 
 - saudi_data_jobs_powerbi.csv
 
-The dashboard focuses on presenting insights related to:
+The dashboard presents insights related to:
 
 - Required skills.
 - Required tools.
@@ -219,6 +218,7 @@ The identified focus areas included:
 - Machine Learning
 
 ---
+
 ## Final Visualizations
 
 The project generated final visualizations to summarize market requirements, including:
@@ -229,6 +229,32 @@ The project generated final visualizations to summarize market requirements, inc
 - Role category distribution.
 - Experience category distribution.
 - Tool requirements across role categories.
+
+## Project Visualizations
+
+### Top Tools in Saudi Data Jobs
+
+![Top Tools](reports/figures/top_tools_final.png)
+
+### Top Skills in Saudi Data Jobs
+
+![Top Skills](reports/figures/top_skills_final.png)
+
+### Job Distribution by City
+
+![City Distribution](reports/figures/city_distribution_final.png)
+
+### Role Category Distribution
+
+![Role Categories](reports/figures/role_category_final.png)
+
+### Experience Level Distribution
+
+![Experience Levels](reports/figures/experience_category_final.png)
+
+### Tools Requirements by Role Category
+
+![Tools by Role](reports/figures/tools_by_role_heatmap_final.png)
 
 ---
 # Career Readiness Roadmap
@@ -328,13 +354,13 @@ Completed learning certificates and practical courses:
 - Kaggle Data Visualization
 - Kaggle Intro to Machine Learning
 - Kaggle Intermediate Machine Learning
-- Power BI Practical Training
+- Power BI Practical Learning
 - Microsoft DP-900 Azure Data Fundamentals Preparation
 
   
 ---
 
-Project Completion Status
+## Project Completion Status
 
 Completed:
 
@@ -348,4 +374,7 @@ Completed:
 ✅ Power BI dashboard development.
 ✅ Final visualization generation.
 ✅ Technical documentation and final report.
+
+The final project demonstrates a complete workflow from data collection and cleaning to market analysis, visualization, Power BI dashboard development, and career readiness planning.
+
 
