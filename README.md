@@ -281,7 +281,7 @@ Focus areas:
 - Data Modeling
 - Machine Learning Fundamentals
 - Advanced Power BI
-- Cloud Data Concepts
+  
 
 ## Career Ready Level
 
@@ -346,7 +346,7 @@ Throughout this project, I practiced and applied:
 - Building career readiness frameworks.
 - Technical project documentation.
 
-## Learning Certificates and Practical Courses
+Learning Certificates and Practical Courses
 
 Completed learning certificates and practical courses:
 
@@ -354,9 +354,6 @@ Completed learning certificates and practical courses:
 - Kaggle Data Visualization
 - Kaggle Intro to Machine Learning
 - Kaggle Intermediate Machine Learning
-- Power BI Practical Learning
-- Microsoft DP-900 Azure Data Fundamentals Preparation
-
   
 ---
 
