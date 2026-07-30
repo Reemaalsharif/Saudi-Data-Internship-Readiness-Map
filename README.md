@@ -346,7 +346,7 @@ Throughout this project, I practiced and applied:
 - Building career readiness frameworks.
 - Technical project documentation.
 
-## Certifications and Learning
+## Learning Certificates and Practical Courses
 
 Completed learning certificates and practical courses:
 
@@ -376,5 +376,3 @@ Completed:
 - ✅ Technical documentation and final report.
 
 The final project demonstrates a complete workflow from data collection and cleaning to market analysis, visualization, Power BI dashboard development, and career readiness planning.
-
-
