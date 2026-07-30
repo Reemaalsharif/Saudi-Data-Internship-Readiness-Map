@@ -771,7 +771,6 @@ Included:
 - Statistics.
 - Machine Learning Fundamentals.
 - Advanced Power BI.
-- Cloud Data Concepts.
 
 Generated:
 
@@ -811,7 +810,6 @@ Focus:
 - Advanced Analytics.
 - Machine Learning.
 - Business Intelligence.
-- Cloud Concepts.
 
 ## Career Ready
 
@@ -1107,7 +1105,7 @@ The project documentation now explains different parts of the workflow clearly.
 
 ---
 
-# Day 39 — Database Concepts and DP-900 Connection
+Day 39 — Database Concepts Review
 
 ## Progress
 
@@ -1339,7 +1337,6 @@ Focus:
 - Data Modeling.
 - Machine Learning Fundamentals.
 - Advanced Power BI.
-- Cloud Data Concepts.
 
 ## Career Ready
 
